@@ -1,0 +1,66 @@
+---
+title: "Nefrología - laCardio"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+    number-sections: true
+    page-layout: full
+    navbar:
+      title: "Nefrología - laCardio"
+      left:
+        - text: "Inicio"
+          file: index.qmd
+        - text: "EPAs"
+          file: epas.qmd
+        - text: "Plan semanal"
+          file: semana.qmd
+        - text: "Evaluación"
+          file: evaluacion.qmd
+        - text: "Recursos"
+          file: recursos.qmd
+        - text: "FAQ"
+          file: faq.qmd
+---
+
+# Bienvenida
+
+Bienvenido/a a la rotación clínica en nefrología para residentes de medicina interna en la Fundación Cardioinfantil (laCardio). Este sitio web tiene como objetivo presentar el currículo, los objetivos de aprendizaje, las actividades semanales y los recursos disponibles durante tu experiencia clínica.
+
+Durante esta rotación de **cuatro semanas**, estarás inmerso/a en escenarios clínicos reales que facilitarán el desarrollo de competencias clave en el cuidado de pacientes con enfermedad renal aguda y crónica.
+
+El currículo está estructurado en torno a **Actividades Profesionales Confiables (EPAs)** que reflejan tareas reales que se esperan de un residente en formación.
+
+------------------------------------------------------------------------
+
+## Coordinador de la rotación
+
+**Dr. Juan Camilo Castellanos de la Hoz**\
+Nefrólogo - Fundación Cardioinfantil\
+Profesor, Universidad del Rosario
+
+------------------------------------------------------------------------
+
+## Objetivos generales
+
+-   Integrar los principios de fisiopatología renal en la atención del paciente hospitalizado.
+-   Participar activamente en la toma de decisiones clínicas relacionadas con falla renal aguda, crónica y patología glomerular.
+-   Desarrollar competencias comunicativas para la explicación de condiciones renales a pacientes y familiares.
+-   Familiarizarse con procedimientos frecuentes en nefrología, incluyendo hemodiálisis, diálisis peritoneal y uso de ultrasonido a la cabecera.
+
+------------------------------------------------------------------------
+
+## Navegación del sitio
+
+Utiliza el menú superior para acceder a cada una de las secciones:
+
+-   **EPAs**: Actividades profesionales confiables que guían tu desempeño.
+-   **Plan semanal**: Distribución de temas y actividades semana a semana.
+-   **Evaluación**: Métodos de retroalimentación y supervisión.
+-   **Recursos**: Lecturas, videos y enlaces.
+-   **FAQ**: Preguntas frecuentes sobre la rotación.
+
+------------------------------------------------------------------------
+
+Estamos comprometidos con tu formación y esperamos que esta rotación sea una experiencia significativa de aprendizaje.

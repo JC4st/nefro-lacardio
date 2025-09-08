@@ -12,8 +12,6 @@ format:
       left:
         - text: "Inicio"
           file: index.qmd
-        - text: "EPAs"
-          file: epas.qmd
         - text: "Plan semanal"
           file: semana.qmd
         - text: "Evaluación"
@@ -28,9 +26,9 @@ format:
 
 Bienvenido/a a la rotación clínica en nefrología para residentes de medicina interna en la Fundación Cardioinfantil (laCardio). Este sitio web tiene como objetivo presentar el currículo, los objetivos de aprendizaje, las actividades semanales y los recursos disponibles durante tu experiencia clínica.
 
-Durante esta rotación de **cuatro semanas**, estarás inmerso/a en escenarios clínicos reales que facilitarán el desarrollo de competencias clave en el cuidado de pacientes con enfermedad renal aguda y crónica.
+Durante esta rotación de **ocho semanas**, estarás inmerso/a en escenarios clínicos reales que facilitarán el desarrollo de competencias clave en el cuidado de pacientes con enfermedad renal aguda y crónica.
 
-El currículo está estructurado en torno a **Actividades Profesionales Confiables (EPAs)** que reflejan tareas reales que se esperan de un residente en formación.
+El currículo está estructurado en torno a resultados de aprendizaje claramente definidos que orientan tu participación en el servicio, tus lecturas y la retroalimentación que recibirás.
 
 ------------------------------------------------------------------------
 
@@ -42,24 +40,26 @@ Profesor, Universidad del Rosario
 
 ------------------------------------------------------------------------
 
-## Objetivos generales
+## Objetivos de aprendizaje
 
--   Integrar los principios de fisiopatología renal en la atención del paciente hospitalizado.
--   Participar activamente en la toma de decisiones clínicas relacionadas con falla renal aguda, crónica y patología glomerular.
--   Desarrollar competencias comunicativas para la explicación de condiciones renales a pacientes y familiares.
--   Familiarizarse con procedimientos frecuentes en nefrología, incluyendo hemodiálisis, diálisis peritoneal y uso de ultrasonido a la cabecera.
+Al finalizar la rotación, se espera que el residente sea capaz de:
+
+-   Analizar casos clínicos con enfermedad renal aguda o crónica y proponer un abordaje diagnóstico y terapéutico razonado.
+-   Integrar conocimientos fisiopatológicos para interpretar alteraciones ácido-base, hidroelectrolíticas y del gasto urinario.
+-   Comunicar de forma efectiva los hallazgos clínicos y planes terapéuticos al paciente y al equipo de salud.
+-   Participar activamente en la toma de decisiones en interconsultas de nefrología.
+-   Reconocer indicaciones y principios básicos de terapias de reemplazo renal (hemodiálisis y diálisis peritoneal).
+-   Observar procedimientos nefrológicos frecuentes e interpretar su impacto clínico (colocación de catéter, POCUS).
 
 ------------------------------------------------------------------------
 
-## Navegación del sitio
+## Estructura del sitio
 
-Utiliza el menú superior para acceder a cada una de las secciones:
-
--   **EPAs**: Actividades profesionales confiables que guían tu desempeño.
--   **Plan semanal**: Distribución de temas y actividades semana a semana.
--   **Evaluación**: Métodos de retroalimentación y supervisión.
--   **Recursos**: Lecturas, videos y enlaces.
--   **FAQ**: Preguntas frecuentes sobre la rotación.
+-   **Inicio**: Presentación general de la rotación y objetivos.
+-   **Plan semanal**: Distribución de actividades clínicas, académicas y sesiones de retroalimentación.
+-   **Evaluación**: Mecanismos de valoración formativa y sumativa, incluyendo instrumentos como DOPS y mini-CEX.
+-   **Recursos**: Guías clínicas, artículos sugeridos y recursos interactivos.
+-   **FAQ**: Preguntas frecuentes sobre la logística y expectativas de la rotación.
 
 ------------------------------------------------------------------------
 

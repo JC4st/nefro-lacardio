@@ -1,0 +1,68 @@
+---
+title: "Preguntas frecuentes"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+    number-sections: true
+---
+
+# Preguntas frecuentes (FAQ)
+
+Esta sección responde a inquietudes comunes sobre la rotación clínica en nefrología para residentes de medicina interna.
+
+---
+
+## ¿Dónde me debo presentar el primer día de la rotación?
+
+Debes presentarte a las 6:00 a.m. en la oficina del servicio de nefrología, ubicada en el primer piso, torre D. Lleva bata blanca, carné institucional y libreta para notas clínicas.
+
+---
+
+## ¿Cuál es el horario habitual?
+
+El horario es de lunes a viernes de 6:00 a.m. a 5:00 p.m., con una pausa para el almuerzo. La distribución de los turnos de fin de semana se acordará en conjunto con los demás residentes. Es importante asegurar la presencia de al menos un residente los días sábados, domingos y festivos.
+
+---
+
+## ¿Cómo es la dinámica de trabajo?
+
+Durante la rotación, participarás en:
+
+- Visitas hospitalarias en hospitalización, urgencias y UCI.
+- Valoraciones de interconsulta.
+- Discusiones académicas programadas.
+- Procedimientos y sesiones de ecografía.
+
+---
+
+## ¿Debo preparar presentaciones?
+
+Sí. Se espera que cada residente prepare al menos una presentación académica breve (15–20 minutos) por semana, sobre un tema clínico relevante o un caso interesante. El tema será asignado o consensuado durante la semana por el fellow o instructor.
+
+---
+
+## ¿Cómo se evalúa la rotación?
+
+La evaluación incluye:
+
+- Observaciones directas (Mini-CEX, DOPS).
+- Retroalimentación estructurada al final de las semanas 4 y 8.
+- Evaluación sumativa final (desempeño global y presentación clínica).
+
+---
+
+## ¿Puedo sugerir temas o recursos?
+
+Sí. Valoramos las iniciativas de los residentes. Puedes proponer temas para discusión o compartir recursos útiles para incluir en el sitio.
+
+---
+
+## ¿Qué hago si tengo una dificultad durante la rotación?
+
+Comunícalo de inmediato a tu tutor o al coordinador de la rotación. Estamos comprometidos con crear un entorno de aprendizaje respetuoso y seguro.
+
+---
+
+> Si tienes preguntas adicionales, no dudes en plantearlas durante las sesiones o escribir al correo del coordinador: juan.castellanos@urosario.

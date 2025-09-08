@@ -1,0 +1,100 @@
+---
+title: "Evaluación"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+    number-sections: true
+---
+
+# Estrategia de evaluación durante la rotación
+
+La evaluación de los residentes durante la rotación en nefrología busca promover el aprendizaje, proporcionar retroalimentación oportuna y valorar el progreso en el desarrollo de competencias clínicas. Se emplean herramientas centradas en el desempeño en el lugar de trabajo, combinando instancias formativas y sumativas.
+
+------------------------------------------------------------------------
+
+## Componentes de la evaluación
+
+### 1. **Evaluación formativa continua**
+
+**Instrumentos:**
+
+-   **Mini-CEX** (Mini Clinical Evaluation Exercise)
+
+-   **DOPS** (Direct Observation of Procedural Skills)
+
+**Propósito:**
+
+-   Observar habilidades clínicas en tiempo real.
+
+-   Identificar áreas de mejora.
+
+-   Fomentar la reflexión y el aprendizaje autorregulado.
+
+-   Evaluar conocimiento básico
+
+**Se recomienda realizar al menos:**
+
+-   2 Mini-CEX durante la rotación
+-   2 DOPS relacionados con procedimientos comunes (ecografía, acceso vascular)
+
+**Ejemplo de formato DOPS:**
+
+![](DOPS.png)
+
+Esta herramienta permite evaluar aspectos técnicos, de comunicación y profesionalismo en el contexto real del procedimiento.
+
+**EEjemplo de formato Mini-CEX:**
+
+![](mini_cex.png)
+El Mini-CEX facilita la evaluación integral de una interacción clínica, abarcando historia clínica, examen físico, juicio clínico y comunicación.
+
+### 2. **Retroalimentación estructurada**
+
+**Formato:**
+
+-   Entrevista individual con el tutor al finalizar cada bloque de 4 semanas.
+
+-   Análisis conjunto de desempeño clínico, participación académica y aspectos actitudinales.
+
+**Enfoque:**
+
+-   Reforzar fortalezas.
+
+-   Explorar dificultades.
+
+-   Establecer metas para el siguiente bloque.
+
+### 3. **Evaluación sumativa al finalizar la rotación**
+
+**Incluye:**
+
+-   Informe global de desempeño clínico.
+
+-   Cumplimiento de objetivos de aprendizaje.
+
+-   Evaluación actitudinal.
+
+-   Evaluación final tipo preguntas de selección múltiple y mini-CEX
+
+**Resultado:**
+
+-   Informe escrito disponible para el residente y su programa de origen.
+
+-   Recomendaciones para continuar su formación en nefrología.
+
+------------------------------------------------------------------------
+
+## Criterios generales de evaluación
+
+| Dominio evaluado | Descripción |
+|------------------------------------|------------------------------------|
+| Juicio clínico | Capacidad para integrar datos clínicos y tomar decisiones fundamentadas. |
+| Habilidades técnicas | Ejecución de procedimientos y exploraciones físicas con seguridad. |
+| Comunicación y profesionalismo | Relación con pacientes, equipo y actitud ante la retroalimentación. |
+| Participación y autonomía | Iniciativa, compromiso y adaptación progresiva al entorno clínico. |
+
+------------------------------------------------------------------------
+
+> La evaluación se adapta a las necesidades individuales del residente y está centrada en el desarrollo progresivo de competencias clínicas clave.

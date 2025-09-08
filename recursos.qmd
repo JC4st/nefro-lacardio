@@ -1,0 +1,32 @@
+---
+title: "Recursos"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+    number-sections: true
+---
+
+# Recursos para la rotación
+
+Esta sección reúne guías, artículos y materiales de apoyo sugeridos durante la rotación clínica en nefrología. Se organizan por temas correspondientes a cada semana del plan curricular.
+
+------------------------------------------------------------------------
+
+## Recursos generales
+
+-   [UpToDate](https://www.uptodate.com) – Acceso institucional disponible.
+-   [The Skeleton Key Group](https://www.skeletonkey.group) – Casos clínicos sobre electrolitos y trastornos ácido-base.
+-   [NephSim](https://nephsim.com) – Casos clínicos interactivos.
+-   [Renal Fellow Network](https://www.renalfellow.org) – Artículos y discusiones.
+-   [NephroPOCUS](https://nephropocus.com) – Ultrasonografía en enfermedades renales.
+
+## Calculadoras
+
+-   [Prophylactic Anticoagulation in Patients with Membranous Nephropathy](https://www.med.unc.edu/gntools/bleedrisk.html) – Riesgo de sangrado en glomerulopatía membranosa.
+-   [CKD Prognosis Consortium](https://www.ckdpc.org/risk-models.html) – Modelos de riesgo y calculadoras en enfermedades renales.
+-   [Cisplatin-associated Acute Kidney Injury Risk Calculator](https://kidneycalc.org/cp-aki-calculator/) – Riesgo de lesión renal aguda asociada a cisplatino.
+-   [AIN Risk Calculator](https://ainriskprediction.shinyapps.io/ain_calc/) – Riesgo de nefritis túbulo-intersticial.
+
+> Los residentes pueden sugerir recursos adicionales que consideren útiles para su proceso de aprendizaje.

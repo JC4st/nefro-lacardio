@@ -6,8 +6,15 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Inicio
+      - href: semana.qmd
+        text: Plan semanal
+      - href: evaluacion.qmd
+        text: Evaluación
+      - href: recursos.qmd
+        text: Recursos
+      - href: faq.qmd
+        text: Preguntas frecuentes
 
 format:
   html:
@@ -18,4 +25,3 @@ format:
     toc: true
 
 editor: visual
-

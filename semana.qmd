@@ -1,0 +1,204 @@
+---
+title: "Plan semanal"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+    number-sections: true
+---
+
+# Plan semanal de la rotación clínica en nefrología
+
+A continuación se presenta la distribución propuesta para las **8 semanas** de rotación. Cada semana incluye objetivos específicos, actividades clínicas, recursos sugeridos y sesiones académicas. El residente debe participar activamente en las rondas clínicas, interconsultas y espacios de discusión.
+
+------------------------------------------------------------------------
+
+## Semana 1: Introducción y lesión renal aguda
+
+**Objetivos:**
+
+-   Reconocer las principales causas de lesión renal aguda (LRA).
+-   Clasificar adecuadamente la LRA según el mecanismo fisiopatológico.
+-   Interpretar pruebas de función renal y biomarcadores.
+
+**Actividades clínicas:**
+
+-   Visitas hospitalarias en los servicios de urgencias y hospitalización.
+-   Discusión de casos con enfoque sindrómico.
+
+**Sesión académica:**
+
+-   Seminario: “Clasificación y diagnóstico diferencial de la LRA”.
+
+**Lectura sugerida:**
+
+-   Moore, P. K., et al. (2018). "Management of Acute Kidney Injury: Core Curriculum 2018." Am J Kidney Dis 72(1): 136-148.
+-   Chawla, L. S., et al. (2015). "Renal angina: concept and development of pretest probability assessment in acute kidney injury." Crit Care 19(1): 93.
+-   McMahon, B. A. and L. S. Chawla (2021). "The furosemide stress test: current use and future potential." Ren Fail 43(1): 830-839.
+
+------------------------------------------------------------------------
+
+## Semana 2: Manejo de LRA y soporte dialítico
+
+**Objetivos:**
+
+-   Conocer las indicaciones de TRR en pacientes críticos con LRA.
+-   Comprender parámetros básicos de hemodiálisis intermitente, continua y diálisis peritoneal.
+
+**Actividades clínicas:**
+
+-   Discusión diaria de casos en UCI, urgencias y hospitalización.
+-   Observación de colocación de catéter temporal.
+-   Realizar el curso de accesos vasculares en Cardio U. Gestionar con ktutistar\@lacardio.org
+
+**Sesión académica:**
+
+-   Taller práctico: Indicaciones y prescripción de TRR.
+
+**Lectura sugerida:**
+
+-   Moore, P. K., et al. (2018). "Management of Acute Kidney Injury: Core Curriculum 2018." Am J Kidney Dis 72(1): 136-148.
+-   Tolwani, A. (2012). "Continuous renal-replacement therapy for acute kidney injury." N Engl J Med 367(26): 2505-2514.
+
+------------------------------------------------------------------------
+
+## Semana 3: Hiponatremia, hipernatremia, trastornos del potasio y equilibrio ácido-base
+
+**Objetivos:**
+
+-   Clasificar los trastornos del sodio y potasio.
+-   Aplicar algoritmos diagnósticos y terapéuticos.
+
+**Actividades clínicas:**
+
+-   Evaluación de pacientes con desequilibrios electrolíticos.
+
+**Sesión académica:**
+
+-   Discusión de casos y resolución de fórmulas.
+
+**Lectura sugerida:**
+
+-   Seay, N. W., et al. (2020). "Diagnosis and Management of Disorders of Body Tonicity–Hyponatremia and Hypernatremia: Core Curriculum 2020." Am J Kidney Dis 75(2): 272-286.
+-   Palmer, B. F. and D. J. Clegg (2019). "Physiology and Pathophysiology of Potassium Homeostasis: Core Curriculum 2019." Am J Kidney Dis 74(5): 682-695.
+-   Wu, K. L., et al. (2017). "Identification of the Causes for Chronic Hypokalemia: Importance of Urinary Sodium and Chloride Excretion." Am J Med 130(7): 846-855.
+
+------------------------------------------------------------------------
+
+## Semana 4: Glomerulopatías y biopsia renal
+
+**Objetivos:**
+
+-   Identificar síndromes glomerulares.
+-   Indicar y preparar pacientes para biopsia renal.
+
+**Actividades clínicas:**
+
+-   Discusión de casos clínicos.
+
+**Sesión académica:**
+
+-   “Glomerulopatías primarias: presentación clínica y enfoque”.
+
+**Lectura sugerida:**
+
+-   (2024). "KDIGO 2024 Clinical Practice Guideline for the Management of Antineutrophil Cytoplasmic Antibody (ANCA)-Associated Vasculitis." Kidney Int 105(3S): S71-S116.
+-   (2021). "KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases."
+-   (2024). "KDIGO 2024 Clinical Practice Guideline for the Management of Lupus Nephritis."
+
+------------------------------------------------------------------------
+
+## Semana 5: Síndrome cardiorrenal e hipertensión secundaria
+
+**Objetivos:**
+
+-   Clasificar y tratar la LRA en pacientes con enfermedad cardíaca.
+-   Reconocer complicaciones comunes del síndrome cardiorrenal.
+
+**Actividades clínicas:**
+
+-   Seguimiento hospitalario de pacientes con LRA y falla cardíaca.
+
+**Sesión académica:**
+
+-   “Manejo integral del síndrome cardiorrenal”.
+
+**Lectura sugerida:**
+
+-   Teixeira, J. P., et al. (2023). "Proceedings of the 2022 UAB CRRT Academy..." Blood Purif 52(11-12): 857-879.
+-   Belcher, J. M., et al. (2019). "The Cardiorenal Syndrome..." Circulation 139(16): e840-e878.
+-   Ginès, P., et al. (2021). "Management of Ascites and Hyponatremia in Cirrhosis..." Hepatology 73(1): 202-220.
+-   (2021). "KDIGO 2021 Clinical Practice Guideline for the Management of Blood Pressure in Chronic Kidney Disease."
+
+------------------------------------------------------------------------
+
+## Semana 6: Síndrome hepatorrenal
+
+**Objetivos:**
+
+-   Aplicar criterios diagnósticos de enfermedad renal en el contexto de enfermedad hepática.
+-   Reconocer complicaciones comunes del síndrome hepatorrenal.
+
+**Actividades clínicas:**
+
+-   Discusión de casos clínicos.
+
+**Sesión académica:**
+
+-   “Síndrome hepatorrenal: evaluación ultrasonográfica y de sedimento urinario”.
+
+**Lectura sugerida:**
+
+-   Kanduri, S. R. and J. C. Q. Velez (2024). "Kidney Dysfunction in the Setting of Liver Failure: Core Curriculum 2024." Am J Kidney Dis 83(3): 386-401.
+-   Banegas-Deras, E. J., et al. (2024). "Acute kidney injury and point-of-care ultrasound in liver cirrhosis..."
+
+------------------------------------------------------------------------
+
+## Semana 7: Trasplante renal y onconefrología
+
+**Objetivos:**
+
+-   Conocer criterios de selección y evaluación de donantes/receptores.
+-   Identificar signos de rechazo y manejo inicial.
+-   Reconocer efectos de los agentes quimioterapéuticos sobre la función renal.
+
+**Actividades clínicas:**
+
+-   Seguimiento de pacientes postrasplante y en quimioterapia.
+
+**Sesión académica:**
+
+-   “Complicaciones tempranas y tardías del TR”.
+-   “Urgencias oncológicas y enfermedad renal”.
+
+**Lectura sugerida:**
+
+-   Voora, S. and D. B. Adey (2019). "Management of Kidney Transplant Recipients by General Nephrologists: Core Curriculum 2019." Am J Kidney Dis 73(6): 866-879.
+-   Rosner, M. H., et al. (2021). "Onconephrology: The intersections between the kidney and cancer." CA Cancer J Clin 71(1): 47-77.
+
+------------------------------------------------------------------------
+
+## Semana 8: Integración y evaluación final
+
+**Objetivos:**
+
+-   Integrar conocimientos clínicos y fisiopatológicos.
+-   Identificar áreas de mejora personal.
+
+**Actividades clínicas:**
+
+-   Discusión de casos integradores.
+-   Participación activa en juntas clínicas.
+
+**Sesión académica:**
+
+-   Evaluación final tipo mini-CEX, MCQ y retroalimentación estructurada.
+
+**Lectura sugerida:**
+
+-   Revisión libre según interés del residente.
+
+------------------------------------------------------------------------
+
+> Este plan puede ajustarse según la disponibilidad clínica y las necesidades individuales del residente. Las lecturas sugeridas corresponden al conocimiento de un estudiante apenas competente; cada residente deberá realizar lecturas adicionales y mantenerse actualizado en un contexto de **autoaprendizaje**.

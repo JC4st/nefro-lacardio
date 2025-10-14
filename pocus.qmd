@@ -1,0 +1,53 @@
+---
+title: "POCUS"
+format: 
+  html: 
+    toc: true
+    theme: cosmo
+    toc-depth: 2
+    number-sections: true
+---
+
+# VExUS
+
+Diametro de vena cava inferior:
+
+Doppler de vena hepática:
+
+Índice de pulsatibilidad vena porta ( %)
+
+Patron de vena renal:
+
+Grado VExUS:
+
+# Pulmonar
+
+Patrón:
+
+Grosor pleural (mm):
+
+Numero de espacios evaluados:
+
+Cuantificación de líneas B:
+
+# Vena yugular interna
+
+Distensibilidad en valsalva mayor a 17%:
+
+# Datos enfermedad renal:
+
+Parcial de orina No cuenta con uroanalisis\
+Creatinina actual:\
+Creatinina basal:
+
+# FOCUS
+
+Función ventricular izquierda:
+
+Función de las válvulas:
+
+Otras mediciones relevantes:
+
+Relación E/A VTI:
+
+# Recomendación

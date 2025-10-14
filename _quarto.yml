@@ -16,6 +16,10 @@ website:
         text: Recursos
       - href: faq.qmd
         text: Preguntas frecuentes
+      - href: historia.qmd
+        text: Formato de historia clínica
+      - href: pocus.qmd
+        text: Reportes en POCUS
 
 format:
   html:

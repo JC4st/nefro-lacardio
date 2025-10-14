@@ -1,0 +1,181 @@
+---
+title: "Formato de historia clínica"
+format: 
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+    number-sections: true
+---
+
+# Historia clínica hospitalaria
+
+NEFROLOGIA
+
+Fellow/Residente/Interno:
+
+DIAGNOSTICOS POR NEFROLOGIA
+
+DIAGNOSTICOS GENERALES
+
+SUBJETIVO.
+
+OBJETIVO.
+
+Signos vitales, peso y gasto urinario.
+
+Incluir escala de evaluación del dolor.
+
+Balance de liquidos.
+
+Soporte Hemodinámico.
+
+Soporte o Parametros ventilatorios.
+
+Examen físico.
+
+PARACLINICOS ENFOCADOS NEFROLOGIA
+
+Ultima Ecografía renal: Fecha:
+
+Ultimo Uroanalisis: Fecha:
+
+Ultima Biopsia renal:
+
+Evaluación POCUS
+
+Perfil infeccioso: Fecha:
+
+Perfil Inmunológico: Fecha:
+
+Perfil Lisis tumoral: Fecha:
+
+Fecha inicio diálisis:
+
+Fecha Implante Catéter:
+
+Unidad renal ambulatoria
+
+Diuresis residual en 24 horas
+
+ANÁLISIS DE RESULTADOS.
+
+Copiar textualmente cada laboratorio.
+
+Interpretación de las imágenes diagnósticas.
+
+Gases venosos y arteriales.
+
+Otros (Ecocardiograma, medicina nuclear, etc.)
+
+Glucómetros. - Cultivos.
+
+OTROS EXAMENES (EXAMENES DIARIOS)
+
+ANÁLISIS.
+
+Describir los problemas (Ej.: Severo compromiso de oxigenación, poliuria, etc.)
+
+PLAN DE MANEJO.
+
+Explicar de manera concreta las variaciones realizadas al plan de tratamiento o el porqué de su continuidad.
+
+Aislamiento requerido.
+
+# Historia clínica consulta externa
+
+Nombre. Edad. Natural.
+
+Residente.
+
+Ocupación
+
+Religión.:
+
+Lateralidad.
+
+Escolaridad.
+
+Estado Civil.
+
+Asiste con:
+
+Teléfono.
+
+Motivo de consulta:
+
+Enfermedad actual:
+
+Revisión por sistemas:
+
+-   NYHA estable.
+
+-   Orina sin espuma sin hematuria ni síntomas obstructivos urinarios, niega incontinencia, niega esfuerzo miccional, niega nicturia, niega síntomas urinarios.
+
+-   No edema de miembros inferiores
+
+Tratamiento actual:
+
+Tratamiento previo:
+
+Antecedentes
+
+Patológicos:
+
+Quirúrgicos.
+
+Alcohol Traumáticos niega, alérgicos niega, transfusionales
+
+Familiares:
+
+Examen fisico.
+
+Cabeza y cuello:
+
+Normocéfalo, escleras anictéricas, conjuntivas normocromicas, mucosa oral húmeda, cuello móvil, no se palpan adenopatías
+
+Tórax: Simétrico sin uso de musculatura accesoria de la respiraciòn Cardiopulmonar. Rscs rítmicos bradicardicos sin soplos Rsrs conservados sin agregados
+
+Abdomen: Blando sin signos de irritación peritoneal no se palpan masas ni megalias. Ruidos intestinales positivos. Genitourinario: No se examina
+
+Extremidades: Eutróficas, sin edema, pulsos distales positivos
+
+Neurológico:sin focalización neurológica
+
+PERFIL HEPATICO (xx/xx/xx)
+
+Albumina Bilirrubinas, Fosfatasa alcalina, Transaminasas, PTT, INR.
+
+PERFIL METABÓLICO
+
+OSEO y ELECTROLITOS
+
+Calcio Fósforo Sodio Potasio Glucosa Pre Glucosa post Hba1c Colesterol total HDL LDLc Trigliceridos
+
+PERFIL RENAL:
+
+Cr CKD EPI (ml/min/1.73m2) BUN Clcr 24 horas: Cr Urinaria. Uroanalisis Proteinuria 24 horas
+
+PERFIL INFECCIOSO
+
+OTROS
+
+IMAGENES
+
+ANALISIS
+
+PLAN
+
+Medidas generales de nefroprevencion:
+
+Mentener TA \< 130/80
+
+LDL \< 100
+
+Acido urico \<7
+
+Hba1c \< 7%
+
+Consumo de liquidos
+
+Evitar medicamentos nefrotoxicos: Ibuprofeno, naproxeno, diclfenaco.

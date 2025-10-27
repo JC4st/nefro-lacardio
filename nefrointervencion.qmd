@@ -1,0 +1,132 @@
+---
+title: "Curso de Nefrología Intervencionista"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    theme: cosmo
+    number-sections: true
+---
+
+# Introducción
+
+La nefrología intervencionista combina la pericia clínica del nefrólogo con habilidades técnicas que mejoran el cuidado del paciente. En la Fundación Cardioinfantil creemos que el propio nefrólogo es quien mejor puede realizar procedimientos invasivos, al comprender en profundidad tanto la anatomía como las implicaciones clínicas.
+
+Este curso teórico-práctico tiene una duración de 8 semanas, y está diseñado para desarrollar competencias progresivas mediante simulación, observación clínica y evaluación directa.
+
+---
+
+# Resultados de Aprendizaje
+
+Al finalizar el curso, el residente podrá:
+
+1. Insertar catéteres de hemodiálisis (transitorios y tunelizados) utilizando guía ecográfica y técnicas de fluoroscopía.
+2. Inferir el estado de volumen mediante ecografía a la cabecera del paciente (POCUS).
+3. Insertar catéteres peritoneales según técnica establecida.
+4. Identificar y manejar complicaciones de accesos vasculares.
+5. Diseñar un programa de nefrología intervencionista adaptado a su contexto.
+
+---
+
+# Estructura Semanal del Curso
+
+## Semana 1 – Fundamentos
+
+- Indicaciones y contraindicaciones de accesos.
+- Anatomía ecográfica básica y física del ultrasonido.
+- Casos clínicos y simulación.
+
+**Lecturas clave:** Edelman (2012), Narula (2018), Díaz-Gómez (2021)
+
+---
+
+## Semana 2 – Evaluación del Estado de Volumen
+
+- VExUS, IVC, doppler carotídeo.
+- Integración clínica con ultrasonografía.
+- Evaluación formativa con formato DOPS.
+
+**Lecturas clave:** Wong (2024), Koratala (2024), Gargani (2014)
+
+---
+
+## Semana 3 – Inserción de Catéteres Transitorios
+
+- Técnica ecoguiada yugular/femoral.
+- Revisión de complicaciones.
+- Práctica en modelos + DOPS.
+
+**Lecturas clave:** Forneris (2021), Pereira Jr. (2022)
+
+---
+
+## Semana 4 – Catéteres Tunelizados
+
+- Técnica de tunelización, fijación y control de complicaciones.
+- Inserción supervisada en pacientes.
+- Modelos animales para práctica.
+
+**Lecturas clave:** Schroppel (2024), Kachele (2023), Prasad (2023)
+
+---
+
+## Semana 5 – Catéteres Peritoneales
+
+- Inserción quirúrgica y percutánea.
+- Observación de procedimientos reales.
+- Evaluación escrita (700 palabras).
+
+**Lecturas clave:** Abdel-Aal (2024), Haggerty (2017)
+
+---
+
+## Semana 6 – Complicaciones y Cuidados
+
+- Infecciones, disfunciones, estenosis.
+- Simulación de escenarios clínicos.
+- Estrategias de prevención.
+
+**Lecturas clave:** Lok (2024), Sharbidre (2024), Ibeas (2018)
+
+---
+
+## Semana 7 – Diseño de Programas
+
+- Diseñar propuesta de entrenamiento en nefrointervencionismo.
+- Simulación de enseñanza.
+- Modelos educativos (4C/ID, LSPPDM, etc.)
+
+**Lecturas clave:** Koratala & Reisinger (2024), ISN Training Standards (2020)
+
+---
+
+## Semana 8 – Evaluación Final
+
+- Evaluación práctica tipo OSCE / DOPS.
+- Retroalimentación estructurada.
+- Autoevaluación y propuestas de mejora.
+
+---
+
+# Evaluación del Curso
+
+El desempeño será valorado mediante rúbricas de **Observación Directa de Habilidades Procedimentales (DOPS)**, con enfoque formativo y sumativo.
+
+**Dimensiones evaluadas:**
+- Comprensión del procedimiento
+- Técnica aséptica
+- Preparación y analgesia
+- Habilidad técnica
+- Comunicación y profesionalismo
+
+---
+
+# Documentos y Recursos
+
+- [Guía DOPS para residentes](dops-formato.pdf)
+- [Videos instructivos](enlace-a-tu-repositorio)
+- [Lecturas complementarias](bibliografia.qmd)
+
+---
+
+¿Te gustaría que genere también un formulario `.qmd` o `learnr` para los reportes semanales de actividad del residente? ¿O lo transformamos en una plantilla PDF para firmas y entrega oficial?

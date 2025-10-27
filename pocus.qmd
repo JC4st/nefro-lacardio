@@ -1,53 +1,80 @@
 ---
-title: "POCUS"
+title: "POCUS – Valoración Ecográfica Clínica"
 format: 
   html: 
-    toc: true
     theme: cosmo
+    toc: true
     toc-depth: 2
     number-sections: true
 ---
 
 # VExUS
 
-Diametro de vena cava inferior:
+### 1. Diámetro de la vena cava inferior  
+_(en mm; indicar si colapsa con inspiración)_
 
-Doppler de vena hepática:
+### 2. Doppler de la vena hepática  
+_(descripción del patrón: trifásico, bifásico, flujo reverso, etc.)_
 
-Índice de pulsatibilidad vena porta ( %)
+### 3. Índice de pulsatilidad en la vena porta (%)  
+_(valor calculado y su interpretación)_
 
-Patron de vena renal:
+### 4. Patrón de flujo en la vena renal  
+_(normal, pulsátil, reverso, discontinuo, etc.)_
 
-Grado VExUS:
+### 5. Grado de congestión (VExUS score)  
+_(I, II, o III según criterios establecidos)_
+
+---
 
 # Pulmonar
 
-Patrón:
+### 1. Patrón ecográfico  
+_(A, B, consolidación, deslizamiento pleural ausente, etc.)_
 
-Grosor pleural (mm):
+### 2. Grosor pleural (mm)  
+_(en milímetros, si está disponible)_
 
-Numero de espacios evaluados:
+### 3. Número de espacios intercostales evaluados  
+_(e.g., 8, 12 o protocolo completo de 28 zonas)_
 
-Cuantificación de líneas B:
+### 4. Cuantificación de líneas B  
+_(número por campo o clasificación por cuadrante)_
 
-# Vena yugular interna
+---
 
-Distensibilidad en valsalva mayor a 17%:
+# Vena Yugular Interna
 
-# Datos enfermedad renal:
+### Distensibilidad con maniobra de Valsalva  
+¿Mayor al 17%?: **Sí / No**  
+_(describir método de medición si aplica)_
 
-Parcial de orina No cuenta con uroanalisis\
-Creatinina actual:\
-Creatinina basal:
+---
 
-# FOCUS
+# Datos de Función Renal
 
-Función ventricular izquierda:
+- **Uroanálisis disponible:** Sí / No  
+- **Creatinina actual:** ____ mg/dL  
+- **Creatinina basal:** ____ mg/dL  
 
-Función de las válvulas:
+---
 
-Otras mediciones relevantes:
+# FOCUS (Cardiaco)
 
-Relación E/A VTI:
+### 1. Función ventricular izquierda  
+_(Fracción de eyección estimada: normal, reducida, severamente reducida)_
+
+### 2. Evaluación de válvulas  
+_(presencia de insuficiencia/trastornos evidentes)_
+
+### 3. Otras mediciones relevantes  
+_(derrame pericárdico, dilatación de cavidades, TAPSE, etc.)_
+
+### 4. Relación E/A – VTI (si se midió)  
+_(indicadores de función diastólica o gasto cardíaco)_
+
+---
 
 # Recomendación
+
+_(Indicar interpretación global de hallazgos POCUS y sugerencias clínicas: iniciar diurético, cambiar estrategia de volumen, considerar hemodiálisis, etc.)_

@@ -20,6 +20,8 @@ website:
         text: Formato de historia clínica
       - href: pocus.qmd
         text: Reportes en POCUS
+      - href: nefrointervencion.qmd
+        text: Nefrointervención
 
 format:
   html:

@@ -24,6 +24,8 @@ format:
           file: historia.qmd
         - text: "Reportes en POCUS"
           file: pocus.qmd
+        - text: "Nefro intervención"
+          file: nefrointervencion.qmd
 ---
 
 # Bienvenida

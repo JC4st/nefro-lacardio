@@ -199,7 +199,3 @@ _(Síntesis razonada de hallazgos, problemas prioritarios, correlación clínico
   - HbA1c < 7%
   - Evitar AINEs nefrotóxicos: ibuprofeno, naproxeno, diclofenaco
   - Recomendación de ingesta hídrica
-
----
-
-¿Quieres que lo exporte como PDF o Word (`.docx`) para impresión, o lo convierta en un formulario digital interactivo en Quarto para que los residentes lo completen en línea?

@@ -196,137 +196,11 @@
     "text": "Comunícalo de inmediato a tu tutor o al coordinador de la rotación. Estamos comprometidos con crear un entorno de aprendizaje respetuoso y seguro.\n\n\nSi tienes preguntas adicionales, no dudes en plantearlas durante las sesiones o escribir al correo del coordinador: juan.castellanos@urosario."
   },
   {
-    "objectID": "historia.html",
-    "href": "historia.html",
-    "title": "Preguntas frecuentes",
-    "section": "",
-    "text": "Fellow / Residente / Interno responsable:\n(Nombre y cargo)\n\n\n\n\n\nPor Nefrología:\n(Listado de diagnósticos específicos)\nDiagnósticos generales (comorbilidades):\n(HTA, DM, etc.)\n\n\n\n\n\n\n\n\nSíntomas referidos por el paciente.\nEscala de dolor (visual o numérica).\n\n\n\n\n\nSignos vitales, peso y gasto urinario.\nBalance hídrico.\nSoporte hemodinámico.\nParámetros ventilatorios (si aplica).\nExamen físico completo.\n\n\n\n\n\n\n\nEcografía renal más reciente: (fecha)\nUroanálisis más reciente: (fecha)\nBiopsia renal: (fecha / hallazgos si disponibles)\nEvaluación POCUS: (resumen estructurado)\nPerfil infeccioso: (fecha)\nPerfil inmunológico: (fecha)\nPerfil de lisis tumoral: (fecha)\nFecha de inicio de diálisis:\nFecha de implante de catéter:\nUnidad renal ambulatoria de referencia:\nDiuresis residual en 24 horas:\n\n\n\n\n\n\nCopiar textualmente resultados relevantes.\nInterpretación de imágenes diagnósticas.\nGases arteriales y venosos.\nGlucómetros, cultivos, otros (eco, medicina nuclear, etc.).\nExámenes de seguimiento diario.\n\n\n\n\n\nDescribir los principales problemas identificados (ej. poliuria, sobrecarga de volumen, hiperkalemia, etc.).\n\n\n\n\n\nJustificar cambios o continuidad del tratamiento.\nMedidas específicas por problema identificado.\nRecomendaciones de aislamiento, nutrición, etc."
-  },
-  {
     "objectID": "pocus.html",
     "href": "pocus.html",
     "title": "POCUS – Valoración Ecográfica Clínica",
     "section": "",
     "text": "1 VExUS\n\n1.0.1 1. Diámetro de la vena cava inferior\n(en mm; indicar si colapsa con inspiración)\n\n\n1.0.2 2. Doppler de la vena hepática\n(descripción del patrón: trifásico, bifásico, flujo reverso, etc.)\n\n\n1.0.3 3. Índice de pulsatilidad en la vena porta (%)\n(valor calculado y su interpretación)\n\n\n1.0.4 4. Patrón de flujo en la vena renal\n(normal, pulsátil, reverso, discontinuo, etc.)\n\n\n1.0.5 5. Grado de congestión (VExUS score)\n(I, II, o III según criterios establecidos)\n\n\n\n\n2 Pulmonar\n\n2.0.1 1. Patrón ecográfico\n(A, B, consolidación, deslizamiento pleural ausente, etc.)\n\n\n2.0.2 2. Grosor pleural (mm)\n(en milímetros, si está disponible)\n\n\n2.0.3 3. Número de espacios intercostales evaluados\n(e.g., 8, 12 o protocolo completo de 28 zonas)\n\n\n2.0.4 4. Cuantificación de líneas B\n(número por campo o clasificación por cuadrante)\n\n\n\n\n3 Vena Yugular Interna\n\n3.0.1 Distensibilidad con maniobra de Valsalva\n¿Mayor al 17%?: Sí / No\n(describir método de medición si aplica)\n\n\n\n\n4 Datos de Función Renal\n\nUroanálisis disponible: Sí / No\n\nCreatinina actual: ____ mg/dL\n\nCreatinina basal: ____ mg/dL\n\n\n\n\n5 FOCUS (Cardiaco)\n\n5.0.1 1. Función ventricular izquierda\n(Fracción de eyección estimada: normal, reducida, severamente reducida)\n\n\n5.0.2 2. Evaluación de válvulas\n(presencia de insuficiencia/trastornos evidentes)\n\n\n5.0.3 3. Otras mediciones relevantes\n(derrame pericárdico, dilatación de cavidades, TAPSE, etc.)\n\n\n5.0.4 4. Relación E/A – VTI (si se midió)\n(indicadores de función diastólica o gasto cardíaco)\n\n\n\n\n6 Recomendación\n(Indicar interpretación global de hallazgos POCUS y sugerencias clínicas: iniciar diurético, cambiar estrategia de volumen, considerar hemodiálisis, etc.)"
-  },
-  {
-    "objectID": "historia.html#diagnósticos",
-    "href": "historia.html#diagnósticos",
-    "title": "Preguntas frecuentes",
-    "section": "",
-    "text": "Por Nefrología:\n(Listado de diagnósticos específicos)\nDiagnósticos generales (comorbilidades):\n(HTA, DM, etc.)"
-  },
-  {
-    "objectID": "historia.html#evaluación-clínica",
-    "href": "historia.html#evaluación-clínica",
-    "title": "Preguntas frecuentes",
-    "section": "",
-    "text": "Síntomas referidos por el paciente.\nEscala de dolor (visual o numérica).\n\n\n\n\n\nSignos vitales, peso y gasto urinario.\nBalance hídrico.\nSoporte hemodinámico.\nParámetros ventilatorios (si aplica).\nExamen físico completo."
-  },
-  {
-    "objectID": "historia.html#paraclínicos-relevantes-para-nefrología",
-    "href": "historia.html#paraclínicos-relevantes-para-nefrología",
-    "title": "Preguntas frecuentes",
-    "section": "",
-    "text": "Ecografía renal más reciente: (fecha)\nUroanálisis más reciente: (fecha)\nBiopsia renal: (fecha / hallazgos si disponibles)\nEvaluación POCUS: (resumen estructurado)\nPerfil infeccioso: (fecha)\nPerfil inmunológico: (fecha)\nPerfil de lisis tumoral: (fecha)\nFecha de inicio de diálisis:\nFecha de implante de catéter:\nUnidad renal ambulatoria de referencia:\nDiuresis residual en 24 horas:"
-  },
-  {
-    "objectID": "historia.html#análisis-de-resultados",
-    "href": "historia.html#análisis-de-resultados",
-    "title": "Preguntas frecuentes",
-    "section": "",
-    "text": "Copiar textualmente resultados relevantes.\nInterpretación de imágenes diagnósticas.\nGases arteriales y venosos.\nGlucómetros, cultivos, otros (eco, medicina nuclear, etc.).\nExámenes de seguimiento diario."
-  },
-  {
-    "objectID": "historia.html#análisis-clínico",
-    "href": "historia.html#análisis-clínico",
-    "title": "Preguntas frecuentes",
-    "section": "",
-    "text": "Describir los principales problemas identificados (ej. poliuria, sobrecarga de volumen, hiperkalemia, etc.)."
-  },
-  {
-    "objectID": "historia.html#plan-de-manejo",
-    "href": "historia.html#plan-de-manejo",
-    "title": "Preguntas frecuentes",
-    "section": "",
-    "text": "Justificar cambios o continuidad del tratamiento.\nMedidas específicas por problema identificado.\nRecomendaciones de aislamiento, nutrición, etc."
-  },
-  {
-    "objectID": "historia.html#datos-de-identificación",
-    "href": "historia.html#datos-de-identificación",
-    "title": "Preguntas frecuentes",
-    "section": "2.1 1. Datos de Identificación",
-    "text": "2.1 1. Datos de Identificación\n\nNombre:\n\nEdad:\n\nNatural de:\n\nResidente acompañante:\n\nOcupación:\n\nReligión:\n\nLateralidad:\n\nEscolaridad:\n\nEstado civil:\n\nAcompañante:\n\nTeléfono:"
-  },
-  {
-    "objectID": "historia.html#motivo-de-consulta",
-    "href": "historia.html#motivo-de-consulta",
-    "title": "Preguntas frecuentes",
-    "section": "2.2 2. Motivo de Consulta",
-    "text": "2.2 2. Motivo de Consulta\n(Describir textual del paciente si posible)"
-  },
-  {
-    "objectID": "historia.html#enfermedad-actual",
-    "href": "historia.html#enfermedad-actual",
-    "title": "Preguntas frecuentes",
-    "section": "2.3 3. Enfermedad Actual",
-    "text": "2.3 3. Enfermedad Actual\n(Descripción cronológica, evolución de síntomas, estudios previos)"
-  },
-  {
-    "objectID": "historia.html#revisión-por-sistemas",
-    "href": "historia.html#revisión-por-sistemas",
-    "title": "Preguntas frecuentes",
-    "section": "2.4 4. Revisión por Sistemas",
-    "text": "2.4 4. Revisión por Sistemas\n\nNYHA estable.\nOrina sin espuma, sin hematuria ni síntomas obstructivos urinarios.\nNiega incontinencia, nicturia, esfuerzo miccional.\nNo edema de miembros inferiores."
-  },
-  {
-    "objectID": "historia.html#medicación",
-    "href": "historia.html#medicación",
-    "title": "Preguntas frecuentes",
-    "section": "2.5 5. Medicación",
-    "text": "2.5 5. Medicación\n\nTratamiento actual:\n\nTratamiento previo:"
-  },
-  {
-    "objectID": "historia.html#antecedentes",
-    "href": "historia.html#antecedentes",
-    "title": "Preguntas frecuentes",
-    "section": "2.6 6. Antecedentes",
-    "text": "2.6 6. Antecedentes\n\nPatológicos:\n\nQuirúrgicos:\n\nTransfusionales:\n\nTraumáticos:\n\nAlergias:\n\nFamiliares:"
-  },
-  {
-    "objectID": "historia.html#examen-físico",
-    "href": "historia.html#examen-físico",
-    "title": "Preguntas frecuentes",
-    "section": "2.7 7. Examen Físico",
-    "text": "2.7 7. Examen Físico\n\n2.7.1 Cabeza y Cuello\nNormocéfalo, escleras anictéricas, conjuntivas normocrómicas, mucosa oral húmeda, cuello móvil, sin adenopatías.\n\n\n2.7.2 Tórax\nSimétrico, sin uso de musculatura accesoria. RSC rítmicos, bradicárdicos, sin soplos. RSR conservados, sin agregados.\n\n\n2.7.3 Abdomen\nBlando, sin irritación peritoneal, sin masas ni megalias, ruidos positivos.\nGenitourinario: no evaluado.\n\n\n2.7.4 Extremidades\nEutróficas, sin edema, pulsos periféricos presentes.\n\n\n2.7.5 Neurológico\nSin focalización neurológica."
-  },
-  {
-    "objectID": "historia.html#perfil-paraclínico",
-    "href": "historia.html#perfil-paraclínico",
-    "title": "Preguntas frecuentes",
-    "section": "2.8 8. Perfil Paraclínico",
-    "text": "2.8 8. Perfil Paraclínico\n\n2.8.1 8.1 Perfil Hepático (dd/mm/aa)\n\nAlbúmina, bilirrubinas, FA, transaminasas, PTT, INR.\n\n\n\n2.8.2 8.2 Perfil Metabólico, Óseo y Electrolitos\n\nCalcio, fósforo, sodio, potasio, glucosa (pre/post), HbA1c, colesterol total, HDL, LDLc, triglicéridos.\n\n\n\n2.8.3 8.3 Perfil Renal\n\nCreatinina, CKD-EPI, BUN, ClCr 24h, proteinuria, uroanálisis.\n\n\n\n2.8.4 8.4 Perfil Infeccioso\n(indicar marcadores relevantes)"
-  },
-  {
-    "objectID": "historia.html#imágenes",
-    "href": "historia.html#imágenes",
-    "title": "Preguntas frecuentes",
-    "section": "2.9 9. Imágenes",
-    "text": "2.9 9. Imágenes\n\n(Rx tórax, ecografía, TAC, etc.)"
-  },
-  {
-    "objectID": "historia.html#análisis-clínico-1",
-    "href": "historia.html#análisis-clínico-1",
-    "title": "Preguntas frecuentes",
-    "section": "2.10 10. Análisis Clínico",
-    "text": "2.10 10. Análisis Clínico\n(Síntesis razonada de hallazgos, problemas prioritarios, correlación clínico-paraclínica)"
-  },
-  {
-    "objectID": "historia.html#plan",
-    "href": "historia.html#plan",
-    "title": "Preguntas frecuentes",
-    "section": "2.11 11. Plan",
-    "text": "2.11 11. Plan\n\nDiagnóstico: estudios requeridos, biopsias, pruebas adicionales.\nTratamiento: ajustes en farmacoterapia, seguimiento.\nEducación al paciente.\nMedidas generales de nefroprevención:\n\nTA &lt; 130/80 mmHg\nLDL &lt; 100 mg/dL\nÁcido úrico &lt; 7 mg/dL\nHbA1c &lt; 7%\nEvitar AINEs nefrotóxicos: ibuprofeno, naproxeno, diclofenaco\nRecomendación de ingesta hídrica\n\n\n\n¿Quieres que lo exporte como PDF o Word (.docx) para impresión, o lo convierta en un formulario digital interactivo en Quarto para que los residentes lo completen en línea?"
   },
   {
     "objectID": "nefrointervencion.html",
@@ -390,5 +264,229 @@
     "title": "Curso de Nefrología Intervencionista",
     "section": "3.8 Semana 8 – Evaluación Final",
     "text": "3.8 Semana 8 – Evaluación Final\n\nEvaluación práctica tipo OSCE / DOPS.\nRetroalimentación estructurada.\nAutoevaluación y propuestas de mejora."
+  },
+  {
+    "objectID": "historia.html",
+    "href": "historia.html",
+    "title": "Formatos de historia clínica",
+    "section": "",
+    "text": "NoteUso de los formatos\n\n\n\nAdaptar el contenido a lo interrogado y examinado; individualizar el plan según el contexto clínico.\nEstos formatos se diligencian en la historia clínica institucional. No incorporar datos identificables de pacientes al sitio web ni al repositorio."
+  },
+  {
+    "objectID": "historia.html#diagnósticos",
+    "href": "historia.html#diagnósticos",
+    "title": "Preguntas frecuentes",
+    "section": "",
+    "text": "Por Nefrología:\n(Listado de diagnósticos específicos)\nDiagnósticos generales (comorbilidades):\n(HTA, DM, etc.)"
+  },
+  {
+    "objectID": "historia.html#evaluación-clínica",
+    "href": "historia.html#evaluación-clínica",
+    "title": "Preguntas frecuentes",
+    "section": "",
+    "text": "Síntomas referidos por el paciente.\nEscala de dolor (visual o numérica).\n\n\n\n\n\nSignos vitales, peso y gasto urinario.\nBalance hídrico.\nSoporte hemodinámico.\nParámetros ventilatorios (si aplica).\nExamen físico completo."
+  },
+  {
+    "objectID": "historia.html#paraclínicos-relevantes-para-nefrología",
+    "href": "historia.html#paraclínicos-relevantes-para-nefrología",
+    "title": "Preguntas frecuentes",
+    "section": "",
+    "text": "Ecografía renal más reciente: (fecha)\nUroanálisis más reciente: (fecha)\nBiopsia renal: (fecha / hallazgos si disponibles)\nEvaluación POCUS: (resumen estructurado)\nPerfil infeccioso: (fecha)\nPerfil inmunológico: (fecha)\nPerfil de lisis tumoral: (fecha)\nFecha de inicio de diálisis:\nFecha de implante de catéter:\nUnidad renal ambulatoria de referencia:\nDiuresis residual en 24 horas:"
+  },
+  {
+    "objectID": "historia.html#análisis-de-resultados",
+    "href": "historia.html#análisis-de-resultados",
+    "title": "Formatos de historia clínica",
+    "section": "Análisis de resultados",
+    "text": "Análisis de resultados\n\nCopiar textualmente cada laboratorio.\nInterpretación de las imágenes diagnósticas.\nGases venosos y arteriales.\nOtros (ecocardiograma, medicina nuclear, etc.).\nGlucómetros.\nCultivos."
+  },
+  {
+    "objectID": "historia.html#análisis-clínico",
+    "href": "historia.html#análisis-clínico",
+    "title": "Preguntas frecuentes",
+    "section": "",
+    "text": "Describir los principales problemas identificados (ej. poliuria, sobrecarga de volumen, hiperkalemia, etc.)."
+  },
+  {
+    "objectID": "historia.html#plan-de-manejo",
+    "href": "historia.html#plan-de-manejo",
+    "title": "Formatos de historia clínica",
+    "section": "Plan de manejo",
+    "text": "Plan de manejo\n\nExplicar de manera concreta las variaciones realizadas al plan de tratamiento o el porqué de su continuidad.\nAislamiento requerido."
+  },
+  {
+    "objectID": "historia.html#datos-de-identificación",
+    "href": "historia.html#datos-de-identificación",
+    "title": "Formatos de historia clínica",
+    "section": "Datos de identificación",
+    "text": "Datos de identificación\n\nNombre:\nEdad:\nNatural de:\nResidente:\nOcupación:\nReligión:\nLateralidad:\nEscolaridad:\nEstado civil:\nAsiste con:\nTeléfono:"
+  },
+  {
+    "objectID": "historia.html#motivo-de-consulta",
+    "href": "historia.html#motivo-de-consulta",
+    "title": "Formatos de historia clínica",
+    "section": "Motivo de consulta",
+    "text": "Motivo de consulta"
+  },
+  {
+    "objectID": "historia.html#enfermedad-actual",
+    "href": "historia.html#enfermedad-actual",
+    "title": "Formatos de historia clínica",
+    "section": "Enfermedad actual",
+    "text": "Enfermedad actual"
+  },
+  {
+    "objectID": "historia.html#revisión-por-sistemas",
+    "href": "historia.html#revisión-por-sistemas",
+    "title": "Formatos de historia clínica",
+    "section": "Revisión por sistemas",
+    "text": "Revisión por sistemas\n\nNYHA estable.\nOrina sin espuma, sin hematuria ni síntomas obstructivos urinarios; niega incontinencia, niega esfuerzo miccional, niega nicturia, niega síntomas urinarios.\nNo edema de miembros inferiores."
+  },
+  {
+    "objectID": "historia.html#medicación",
+    "href": "historia.html#medicación",
+    "title": "Preguntas frecuentes",
+    "section": "2.5 5. Medicación",
+    "text": "2.5 5. Medicación\n\nTratamiento actual:\n\nTratamiento previo:"
+  },
+  {
+    "objectID": "historia.html#antecedentes",
+    "href": "historia.html#antecedentes",
+    "title": "Formatos de historia clínica",
+    "section": "Antecedentes",
+    "text": "Antecedentes\n\nPatológicos:\nQuirúrgicos:\nAlcohol:\nTraumáticos: niega.\nAlérgicos: niega.\nTransfusionales:\nFamiliares:"
+  },
+  {
+    "objectID": "historia.html#examen-físico",
+    "href": "historia.html#examen-físico",
+    "title": "Formatos de historia clínica",
+    "section": "Examen físico",
+    "text": "Examen físico\nCabeza y cuello: Normocéfalo, escleras anictéricas, conjuntivas normocrómicas, mucosa oral húmeda, cuello móvil, no se palpan adenopatías.\nTórax: Simétrico, sin uso de musculatura accesoria de la respiración.\nCardiopulmonar: RSCs rítmicos, bradicárdicos, sin soplos. RSRs conservados, sin agregados.\nAbdomen: Blando, sin signos de irritación peritoneal, no se palpan masas ni megalias. Ruidos intestinales positivos.\nGenitourinario: No se examina.\nExtremidades: Eutróficas, sin edema, pulsos distales positivos.\nNeurológico: Sin focalización neurológica."
+  },
+  {
+    "objectID": "historia.html#perfil-paraclínico",
+    "href": "historia.html#perfil-paraclínico",
+    "title": "Preguntas frecuentes",
+    "section": "2.8 8. Perfil Paraclínico",
+    "text": "2.8 8. Perfil Paraclínico\n\n2.8.1 8.1 Perfil Hepático (dd/mm/aa)\n\nAlbúmina, bilirrubinas, FA, transaminasas, PTT, INR.\n\n\n\n2.8.2 8.2 Perfil Metabólico, Óseo y Electrolitos\n\nCalcio, fósforo, sodio, potasio, glucosa (pre/post), HbA1c, colesterol total, HDL, LDLc, triglicéridos.\n\n\n\n2.8.3 8.3 Perfil Renal\n\nCreatinina, CKD-EPI, BUN, ClCr 24h, proteinuria, uroanálisis.\n\n\n\n2.8.4 8.4 Perfil Infeccioso\n(indicar marcadores relevantes)"
+  },
+  {
+    "objectID": "historia.html#imágenes",
+    "href": "historia.html#imágenes",
+    "title": "Formatos de historia clínica",
+    "section": "Imágenes",
+    "text": "Imágenes"
+  },
+  {
+    "objectID": "historia.html#análisis-clínico-1",
+    "href": "historia.html#análisis-clínico-1",
+    "title": "Preguntas frecuentes",
+    "section": "2.10 10. Análisis Clínico",
+    "text": "2.10 10. Análisis Clínico\n(Síntesis razonada de hallazgos, problemas prioritarios, correlación clínico-paraclínica)"
+  },
+  {
+    "objectID": "historia.html#plan",
+    "href": "historia.html#plan",
+    "title": "Formatos de historia clínica",
+    "section": "Plan",
+    "text": "Plan\n\nMedidas generales de nefroprevención\n\nMantener TA &lt; 130/80.\nLDL &lt; 100.\nÁcido úrico &lt; 7.\nHbA1c &lt; 7%.\nConsumo de líquidos.\nEvitar medicamentos nefrotóxicos: ibuprofeno, naproxeno, diclofenaco."
+  },
+  {
+    "objectID": "historia.html#diagnósticos-por-nefrología",
+    "href": "historia.html#diagnósticos-por-nefrología",
+    "title": "Formatos de historia clínica",
+    "section": "Diagnósticos por Nefrología",
+    "text": "Diagnósticos por Nefrología"
+  },
+  {
+    "objectID": "historia.html#diagnósticos-generales",
+    "href": "historia.html#diagnósticos-generales",
+    "title": "Formatos de historia clínica",
+    "section": "Diagnósticos generales",
+    "text": "Diagnósticos generales"
+  },
+  {
+    "objectID": "historia.html#subjetivo",
+    "href": "historia.html#subjetivo",
+    "title": "Formatos de historia clínica",
+    "section": "Subjetivo",
+    "text": "Subjetivo"
+  },
+  {
+    "objectID": "historia.html#objetivo",
+    "href": "historia.html#objetivo",
+    "title": "Formatos de historia clínica",
+    "section": "Objetivo",
+    "text": "Objetivo\n\nSignos vitales, peso y gasto urinario.\nIncluir escala de evaluación del dolor.\nBalance de líquidos.\nSoporte hemodinámico.\nSoporte o parámetros ventilatorios.\nExamen físico."
+  },
+  {
+    "objectID": "historia.html#paraclínicos-enfocados-en-nefrología",
+    "href": "historia.html#paraclínicos-enfocados-en-nefrología",
+    "title": "Formatos de historia clínica",
+    "section": "Paraclínicos enfocados en Nefrología",
+    "text": "Paraclínicos enfocados en Nefrología\n\nÚltima ecografía renal: Fecha:\nÚltimo uroanálisis: Fecha:\nÚltima biopsia renal:\nEvaluación POCUS:\nPerfil infeccioso: Fecha:\nPerfil inmunológico: Fecha:\nPerfil de lisis tumoral: Fecha:\nFecha de inicio de diálisis:\nFecha de implante de catéter:\nUnidad renal ambulatoria + status en lista de espera:\nDiuresis residual en 24 horas:"
+  },
+  {
+    "objectID": "historia.html#análisis",
+    "href": "historia.html#análisis",
+    "title": "Formatos de historia clínica",
+    "section": "Análisis",
+    "text": "Análisis\nDescribir los problemas (ej.: severo compromiso de oxigenación, poliuria, etc.)."
+  },
+  {
+    "objectID": "historia.html#tratamiento-actual",
+    "href": "historia.html#tratamiento-actual",
+    "title": "Formatos de historia clínica",
+    "section": "Tratamiento actual",
+    "text": "Tratamiento actual"
+  },
+  {
+    "objectID": "historia.html#tratamiento-previo",
+    "href": "historia.html#tratamiento-previo",
+    "title": "Formatos de historia clínica",
+    "section": "Tratamiento previo",
+    "text": "Tratamiento previo"
+  },
+  {
+    "objectID": "historia.html#perfil-hepático",
+    "href": "historia.html#perfil-hepático",
+    "title": "Formatos de historia clínica",
+    "section": "Perfil hepático",
+    "text": "Perfil hepático\nFecha: (xx/xx/xx)\n\nAlbúmina:\nBilirrubinas:\nFosfatasa alcalina:\nTransaminasas:\nPTT:\nINR:"
+  },
+  {
+    "objectID": "historia.html#perfil-metabólico-óseo-y-electrolitos",
+    "href": "historia.html#perfil-metabólico-óseo-y-electrolitos",
+    "title": "Formatos de historia clínica",
+    "section": "Perfil metabólico, óseo y electrolitos",
+    "text": "Perfil metabólico, óseo y electrolitos\n\nCalcio:\nFósforo:\nSodio:\nPotasio:\nGlucosa pre:\nGlucosa post:\nHbA1c:\nColesterol total:\nHDL:\nLDLc:\nTriglicéridos:"
+  },
+  {
+    "objectID": "historia.html#perfil-renal",
+    "href": "historia.html#perfil-renal",
+    "title": "Formatos de historia clínica",
+    "section": "Perfil renal",
+    "text": "Perfil renal\n\nCr:\nCKD-EPI (ml/min/1.73 m²):\nBUN:\nClCr 24 horas:\nCr urinaria:\nUroanálisis:\nProteinuria 24 horas:"
+  },
+  {
+    "objectID": "historia.html#perfil-infeccioso",
+    "href": "historia.html#perfil-infeccioso",
+    "title": "Formatos de historia clínica",
+    "section": "Perfil infeccioso",
+    "text": "Perfil infeccioso"
+  },
+  {
+    "objectID": "historia.html#otros",
+    "href": "historia.html#otros",
+    "title": "Formatos de historia clínica",
+    "section": "Otros",
+    "text": "Otros"
+  },
+  {
+    "objectID": "historia.html#análisis-1",
+    "href": "historia.html#análisis-1",
+    "title": "Formatos de historia clínica",
+    "section": "Análisis",
+    "text": "Análisis"
   }
 ]

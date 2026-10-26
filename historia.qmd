@@ -1,201 +1,180 @@
 ---
-title: "Preguntas frecuentes"
+title: "Formatos de historia clínica"
 format:
   html:
     theme: cosmo
     toc: true
     toc-depth: 2
-    number-sections: true
+    number-sections: false
 ---
 
-# Historia Clínica Hospitalaria
+::: {.callout-note title="Uso de los formatos"}
+Adaptar el contenido a lo interrogado y examinado; individualizar el plan según el contexto clínico.
 
-### Servicio de Nefrología
+Estos formatos se diligencian en la historia clínica institucional. No incorporar datos identificables de pacientes al sitio web ni al repositorio.
+:::
 
-**Fellow / Residente / Interno responsable:**  
-_(Nombre y cargo)_
+# Historia clínica hospitalaria
 
----
+**NEFROLOGÍA**
 
-## 1. Diagnósticos
+**Fellow / Residente / Interno:**
 
-- **Por Nefrología:**  
-_(Listado de diagnósticos específicos)_
+## Diagnósticos por Nefrología
 
-- **Diagnósticos generales (comorbilidades):**  
-_(HTA, DM, etc.)_
+## Diagnósticos generales
 
----
+## Subjetivo
 
-## 2. Evaluación Clínica
+## Objetivo
 
-### 2.1 Subjetivo
-- Síntomas referidos por el paciente.
-- Escala de dolor (visual o numérica).
+- Signos vitales, peso y gasto urinario.
+- Incluir escala de evaluación del dolor.
+- Balance de líquidos.
+- Soporte hemodinámico.
+- Soporte o parámetros ventilatorios.
+- Examen físico.
 
-### 2.2 Objetivo
-- **Signos vitales, peso y gasto urinario.**
-- **Balance hídrico.**
-- **Soporte hemodinámico.**
-- **Parámetros ventilatorios (si aplica).**
-- **Examen físico completo.**
+## Paraclínicos enfocados en Nefrología
 
----
-
-## 3. Paraclínicos Relevantes para Nefrología
-
-- **Ecografía renal más reciente:** (fecha)
-- **Uroanálisis más reciente:** (fecha)
-- **Biopsia renal:** (fecha / hallazgos si disponibles)
-- **Evaluación POCUS:** (resumen estructurado)
-- **Perfil infeccioso:** (fecha)
-- **Perfil inmunológico:** (fecha)
-- **Perfil de lisis tumoral:** (fecha)
-- **Fecha de inicio de diálisis:** 
+- **Última ecografía renal:** Fecha:
+- **Último uroanálisis:** Fecha:
+- **Última biopsia renal:**
+- **Evaluación POCUS:**
+- **Perfil infeccioso:** Fecha:
+- **Perfil inmunológico:** Fecha:
+- **Perfil de lisis tumoral:** Fecha:
+- **Fecha de inicio de diálisis:**
 - **Fecha de implante de catéter:**
-- **Unidad renal ambulatoria de referencia:** 
+- **Unidad renal ambulatoria + status en lista de espera:**
 - **Diuresis residual en 24 horas:**
 
----
+## Análisis de resultados
 
-## 4. Análisis de Resultados
+- Copiar textualmente cada laboratorio.
+- Interpretación de las imágenes diagnósticas.
+- Gases venosos y arteriales.
+- Otros (ecocardiograma, medicina nuclear, etc.).
+- Glucómetros.
+- Cultivos.
 
-- Copiar textualmente resultados relevantes.
-- Interpretación de imágenes diagnósticas.
-- Gases arteriales y venosos.
-- Glucómetros, cultivos, otros (eco, medicina nuclear, etc.).
-- Exámenes de seguimiento diario.
+## Análisis
 
----
+Describir los problemas (ej.: severo compromiso de oxigenación, poliuria, etc.).
 
-## 5. Análisis Clínico
+## Plan de manejo
 
-Describir los principales problemas identificados (ej. poliuria, sobrecarga de volumen, hiperkalemia, etc.).
-
----
-
-## 6. Plan de Manejo
-
-- Justificar cambios o continuidad del tratamiento.
-- Medidas específicas por problema identificado.
-- Recomendaciones de aislamiento, nutrición, etc.
+- Explicar de manera concreta las variaciones realizadas al plan de tratamiento o el porqué de su continuidad.
+- Aislamiento requerido.
 
 ---
 
-# Historia Clínica - Consulta Externa
+# Historia clínica de consulta externa
 
-## 1. Datos de Identificación
+## Datos de identificación
 
-- **Nombre:**  
-- **Edad:**  
-- **Natural de:**  
-- **Residente acompañante:**  
-- **Ocupación:**  
-- **Religión:**  
-- **Lateralidad:**  
-- **Escolaridad:**  
-- **Estado civil:**  
-- **Acompañante:**  
-- **Teléfono:**  
+- **Nombre:**
+- **Edad:**
+- **Natural de:**
+- **Residente:**
+- **Ocupación:**
+- **Religión:**
+- **Lateralidad:**
+- **Escolaridad:**
+- **Estado civil:**
+- **Asiste con:**
+- **Teléfono:**
 
----
+## Motivo de consulta
 
-## 2. Motivo de Consulta
+## Enfermedad actual
 
-_(Describir textual del paciente si posible)_
-
----
-
-## 3. Enfermedad Actual
-
-_(Descripción cronológica, evolución de síntomas, estudios previos)_
-
----
-
-## 4. Revisión por Sistemas
+## Revisión por sistemas
 
 - NYHA estable.
-- Orina sin espuma, sin hematuria ni síntomas obstructivos urinarios.
-- Niega incontinencia, nicturia, esfuerzo miccional.
+- Orina sin espuma, sin hematuria ni síntomas obstructivos urinarios; niega incontinencia, niega esfuerzo miccional, niega nicturia, niega síntomas urinarios.
 - No edema de miembros inferiores.
 
----
+## Tratamiento actual
 
-## 5. Medicación
+## Tratamiento previo
 
-- **Tratamiento actual:**  
-- **Tratamiento previo:**  
+## Antecedentes
 
----
+- **Patológicos:**
+- **Quirúrgicos:**
+- **Alcohol:**
+- **Traumáticos:** niega.
+- **Alérgicos:** niega.
+- **Transfusionales:**
+- **Familiares:**
 
-## 6. Antecedentes
+## Examen físico
 
-- Patológicos:  
-- Quirúrgicos:  
-- Transfusionales:  
-- Traumáticos:  
-- Alergias:  
-- Familiares:  
+**Cabeza y cuello:** Normocéfalo, escleras anictéricas, conjuntivas normocrómicas, mucosa oral húmeda, cuello móvil, no se palpan adenopatías.
 
----
+**Tórax:** Simétrico, sin uso de musculatura accesoria de la respiración.
 
-## 7. Examen Físico
+**Cardiopulmonar:** RSCs rítmicos, bradicárdicos, sin soplos. RSRs conservados, sin agregados.
 
-### Cabeza y Cuello
-Normocéfalo, escleras anictéricas, conjuntivas normocrómicas, mucosa oral húmeda, cuello móvil, sin adenopatías.
+**Abdomen:** Blando, sin signos de irritación peritoneal, no se palpan masas ni megalias. Ruidos intestinales positivos.
 
-### Tórax
-Simétrico, sin uso de musculatura accesoria. RSC rítmicos, bradicárdicos, sin soplos. RSR conservados, sin agregados.
+**Genitourinario:** No se examina.
 
-### Abdomen
-Blando, sin irritación peritoneal, sin masas ni megalias, ruidos positivos.  
-**Genitourinario:** no evaluado.
+**Extremidades:** Eutróficas, sin edema, pulsos distales positivos.
 
-### Extremidades
-Eutróficas, sin edema, pulsos periféricos presentes.
+**Neurológico:** Sin focalización neurológica.
 
-### Neurológico
-Sin focalización neurológica.
+## Perfil hepático
 
----
+**Fecha:** (xx/xx/xx)
 
-## 8. Perfil Paraclínico
+- Albúmina:
+- Bilirrubinas:
+- Fosfatasa alcalina:
+- Transaminasas:
+- PTT:
+- INR:
 
-### 8.1 Perfil Hepático (dd/mm/aa)
-- Albúmina, bilirrubinas, FA, transaminasas, PTT, INR.
+## Perfil metabólico, óseo y electrolitos
 
-### 8.2 Perfil Metabólico, Óseo y Electrolitos
-- Calcio, fósforo, sodio, potasio, glucosa (pre/post), HbA1c, colesterol total, HDL, LDLc, triglicéridos.
+- Calcio:
+- Fósforo:
+- Sodio:
+- Potasio:
+- Glucosa pre:
+- Glucosa post:
+- HbA1c:
+- Colesterol total:
+- HDL:
+- LDLc:
+- Triglicéridos:
 
-### 8.3 Perfil Renal
-- Creatinina, CKD-EPI, BUN, ClCr 24h, proteinuria, uroanálisis.
+## Perfil renal
 
-### 8.4 Perfil Infeccioso
-_(indicar marcadores relevantes)_
+- Cr:
+- CKD-EPI (ml/min/1.73 m²):
+- BUN:
+- ClCr 24 horas:
+- Cr urinaria:
+- Uroanálisis:
+- Proteinuria 24 horas:
 
----
+## Perfil infeccioso
 
-## 9. Imágenes
+## Otros
 
-- (Rx tórax, ecografía, TAC, etc.)
+## Imágenes
 
----
+## Análisis
 
-## 10. Análisis Clínico
+## Plan
 
-_(Síntesis razonada de hallazgos, problemas prioritarios, correlación clínico-paraclínica)_
+### Medidas generales de nefroprevención
 
----
-
-## 11. Plan
-
-- Diagnóstico: estudios requeridos, biopsias, pruebas adicionales.
-- Tratamiento: ajustes en farmacoterapia, seguimiento.
-- Educación al paciente.
-- **Medidas generales de nefroprevención:**
-  - TA < 130/80 mmHg
-  - LDL < 100 mg/dL
-  - Ácido úrico < 7 mg/dL
-  - HbA1c < 7%
-  - Evitar AINEs nefrotóxicos: ibuprofeno, naproxeno, diclofenaco
-  - Recomendación de ingesta hídrica
+- Mantener TA < 130/80.
+- LDL < 100.
+- Ácido úrico < 7.
+- HbA1c < 7%.
+- Consumo de líquidos.
+- Evitar medicamentos nefrotóxicos: ibuprofeno, naproxeno, diclofenaco.

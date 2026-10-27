@@ -1,0 +1,144 @@
+---
+title: "DOPS formativo: POCUS y acceso vascular"
+lang: es
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    number-sections: false
+---
+
+[Volver a Evaluación](evaluacion.qmd)
+
+::: {.callout-note title="Propósito y alcance"}
+Herramienta formativa para estructurar el feedback a partir de la observación directa en **POCUS y acceso vascular**, y acordar acciones de aprendizaje con seguimiento.
+:::
+
+# Cómo utilizarlo
+
+1. **Antes:** residente y docente acuerdan la actividad, el alcance esperado y los aspectos que observarán, considerando la experiencia previa.
+2. **Durante:** el docente observa directamente y registra la ayuda efectivamente requerida. Si solo se observa una parte, se describe cuál. El residente que únicamente presencia un procedimiento no está demostrando su ejecución.
+3. **Después:** seleccionan una fortaleza, una prioridad de mejora y una acción concreta; acuerdan cuándo volver a observarla. El feedback se ofrece al terminar la actividad, cuando las condiciones clínicas lo permitan.
+
+Completar el registro común y **solo el módulo correspondiente**. No es necesario valorar todos los criterios en cada encuentro. Se puede copiar o imprimir esta página mediante el navegador y diligenciarla en el medio institucional autorizado; esta página no es un formulario digital y no guarda respuestas. No registrar datos identificables de pacientes en el sitio o repositorio.
+
+# Registro del encuentro
+
+- **Fecha:** ____________________
+- **Residente y programa / nivel de formación:** ____________________
+- **Docente observador:** ____________________
+- **Modalidad:** rotación general / rotación especial.
+- **Actividad:** POCUS / acceso vascular. Especificar exploración, procedimiento y sitio, según corresponda: ____________________
+- **Contexto:** simulación / paciente.
+- **Experiencia previa relevante:** ____________________
+- **Objetivo del encuentro y desempeño esperado:** ____________________
+- **Alcance observado:** actividad completa / segmento. Describir: ____________________
+- **Supervisión planificada y efectivamente proporcionada:** ____________________
+- **Dificultades del contexto que influyeron en el desempeño:** ____________________
+
+# Registro de la ayuda observada
+
+Para cada criterio observado, registrar el nivel de ayuda requerida y una conducta concreta. La escala describe **este encuentro**, dentro de la supervisión acordada.
+
+| Nivel | Ayuda requerida en el aspecto observado |
+|---|---|
+| 1 | Requirió guía paso a paso o intervención del docente para completar el aspecto observado. |
+| 2 | Completó el aspecto observado con indicaciones puntuales del docente. |
+| 3 | Completó el aspecto observado sin indicaciones adicionales, dentro de la supervisión planificada. |
+| NO | No observado: la actividad o el segmento no permitió valorar ese aspecto. |
+| NA | No aplicable a la actividad acordada. |
+
+Si el docente asume una parte de la actividad, registrar cuál y por qué. **NO y NA quedan fuera de la escala numérica.** Los niveles son categorías ordenadas de ayuda, no notas: no se suman ni se promedian.
+
+# Criterios comunes
+
+## Preparación y propósito
+
+Explica la pregunta clínica o indicación, prepara los recursos y reconoce los límites del alcance acordado.
+
+**Nivel (1–3), NO o NA y conducta observada:** ____________________
+
+## Comunicación y consideración del paciente
+
+Explica la actividad y atiende al confort, la privacidad y el consentimiento según corresponda al contexto. Se comunica con el equipo y el supervisor.
+
+**Nivel (1–3), NO o NA y conducta observada:** ____________________
+
+## Seguridad y solicitud de ayuda
+
+Reconoce dificultades, incertidumbre o situaciones que requieren detenerse y solicitar ayuda; sigue las medidas institucionales de seguridad aplicables. Registrar cualquier intervención del docente y la respuesta del residente.
+
+**Nivel (1–3), NO o NA y conducta observada:** ____________________
+
+# Módulo POCUS
+
+## Adquisición de imágenes
+
+Selecciona transductor y ajustes pertinentes, obtiene las ventanas acordadas y reconoce la calidad o insuficiencia de las imágenes.
+
+**Nivel (1–3), NO o NA y conducta observada:** ____________________
+
+## Interpretación de hallazgos
+
+Describe los hallazgos y las mediciones realizadas; distingue hallazgos, artefactos y estructuras no evaluables, y expresa incertidumbre cuando corresponde.
+
+**Nivel (1–3), NO o NA y conducta observada:** ____________________
+
+## Integración clínica
+
+Relaciona los hallazgos con la pregunta clínica y otros datos disponibles, considera limitaciones y discute su posible impacto en el plan con el supervisor.
+
+**Nivel (1–3), NO o NA y conducta observada:** ____________________
+
+## Documentación y comunicación
+
+Comunica una conclusión con las limitaciones del estudio y documenta el alcance, los hallazgos y la supervisión en el medio institucional correspondiente.
+
+**Nivel (1–3), NO o NA y conducta observada:** ____________________
+
+# Módulo de acceso vascular
+
+Los criterios se aplican al procedimiento y al segmento acordados, siguiendo el protocolo institucional vigente. Este módulo es una guía de observación educativa, no una lista técnica completa ni un protocolo de inserción.
+
+## Planificación del procedimiento
+
+Explica la indicación y el plan, valora las condiciones relevantes para el acceso seleccionado y prepara material, equipo y medidas de confort o analgesia según corresponda.
+
+**Nivel (1–3), NO o NA y conducta observada:** ____________________
+
+## Asepsia y preparación del campo
+
+Realiza la preparación y mantiene la técnica aséptica conforme al procedimiento; reconoce una ruptura y actúa con el supervisor para corregirla.
+
+**Nivel (1–3), NO o NA y conducta observada:** ____________________
+
+## Técnica y uso de ecografía cuando corresponda
+
+Ejecuta el segmento acordado, reconoce las estructuras relevantes y utiliza la guía ecográfica cuando corresponde. Reconoce pérdida de visualización, dificultades o necesidad de ayuda y responde a las indicaciones del supervisor.
+
+**Nivel (1–3), NO o NA y conducta observada:** ____________________
+
+## Finalización y cuidados posteriores
+
+Explica o realiza las verificaciones y cuidados previstos por el protocolo institucional, reconoce posibles complicaciones y comunica y documenta lo realizado y lo pendiente.
+
+**Nivel (1–3), NO o NA y conducta observada:** ____________________
+
+# Feedback y próximo paso
+
+- **Autoevaluación breve del residente:** ____________________
+- **Fortaleza: conducta concreta que conviene mantener:** ____________________
+- **Prioridad de mejora: conducta observada y cambio esperado:** ____________________
+- **Acción acordada y apoyo que brindará el docente:** ____________________
+- **Próxima observación: fecha o siguiente oportunidad y aspecto por revisar:** ____________________
+- **En el siguiente encuentro: qué cambió respecto al acuerdo previo:** ____________________
+
+La ausencia de una oportunidad clínica se registra como tal y se revisa con el tutor. No implica por sí misma desempeño insuficiente ni obliga a realizar un procedimiento invasivo.
+
+# Fundamento y referencias
+
+La escala de tres niveles es una adaptación local para describir la ayuda requerida. La elección de 1–3 facilita su lectura; no deriva de una validación específica de estas tres categorías en POCUS o acceso vascular.
+
+- [ISCP: Direct Observation of Procedural Skills](https://www.iscp.ac.uk/curriculum/surgical/assessment_dops.aspx): observación directa y feedback sobre procedimientos o partes de procedimientos.
+- [Changes in scoring of Direct Observation of Procedural Skills (DOPS) forms and the impact on competence assessment (2018)](https://pubmed.ncbi.nlm.nih.gov/29614526/): evidencia sobre una escala basada en supervisión en endoscopia; sus resultados no validan esta escala local de tres niveles.
+- [Oto y colaboradores. Best Practices for Point of Care Ultrasound: An Interdisciplinary Expert Consensus (2024)](https://pocusjournal.com/article/17240/): referencia para formación, supervisión y documentación de POCUS.

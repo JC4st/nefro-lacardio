@@ -107,13 +107,13 @@ Activities are selected according to the individual plan and service availabilit
 
 ## Week 8 – Final assessment
 
-- Practical assessment using OSCE / DOPS.
+- Practical assessment using OSCE according to the individual plan; review of formative DOPS observations and agreed learning actions.
 - Structured feedback.
 - Self-assessment and improvement proposals.
 
 # Assessment of the dedicated rotation
 
-Performance is assessed using **Direct Observation of Procedural Skills (DOPS)** rubrics for formative and summative purposes, in relation to each resident's agreed objectives. Each observation should distinguish the practice setting (simulation or patient) and the supervision provided.
+Performance is observed using the [formative DOPS for POCUS and vascular access (in Spanish)](dops.qmd), in relation to each resident's agreed objectives. Its purpose is to structure feedback and agree on learning actions and follow-up. Each observation should distinguish the practice setting (simulation or patient) and the supervision provided.
 
 Feedback and the final assessment describe observed performance, practice opportunities and areas requiring further training. Observing a procedure does not demonstrate the ability to perform it.
 

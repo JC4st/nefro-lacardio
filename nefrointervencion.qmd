@@ -125,7 +125,7 @@ Las actividades se seleccionan según el plan individual y la disponibilidad del
 
 ## Semana 8 – Evaluación Final
 
--   Evaluación práctica tipo OSCE / DOPS.
+-   Evaluación práctica tipo OSCE según el plan individual; revisión de los DOPS formativos y de los acuerdos de mejora.
 -   Retroalimentación estructurada.
 -   Autoevaluación y propuestas de mejora.
 
@@ -133,7 +133,7 @@ Las actividades se seleccionan según el plan individual y la disponibilidad del
 
 # Evaluación de la rotación especial
 
-El desempeño será valorado mediante rúbricas de **Observación Directa de Habilidades Procedimentales (DOPS)**, con enfoque formativo y sumativo, en relación con los objetivos acordados para cada residente. En cada observación se debe distinguir el contexto de práctica (simulación o paciente) y el nivel de supervisión utilizado.
+El desempeño se observa mediante el [DOPS formativo para POCUS y acceso vascular](dops.qmd), en relación con los objetivos acordados para cada residente. Su propósito es estructurar el feedback y acordar acciones de aprendizaje con seguimiento. En cada observación se debe distinguir el contexto de práctica (simulación o paciente) y el nivel de supervisión utilizado.
 
 La retroalimentación y la evaluación final describirán el desempeño observado, las oportunidades de práctica y las áreas que requieren continuar el entrenamiento. La observación de un procedimiento no equivale a demostrar su ejecución.
 

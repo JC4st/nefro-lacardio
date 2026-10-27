@@ -1,5 +1,6 @@
 ---
-title: "Curso de Nefrología Intervencionista"
+title: "Nefrointervención: componente opcional y rotación especial"
+lang: es
 format:
   html:
     toc: true
@@ -8,27 +9,49 @@ format:
     number-sections: true
 ---
 
+[Read this page in English](nefrointervencion-en.qmd){lang="en"}
+
 # Introducción
 
-La nefrología intervencionista combina la pericia clínica del nefrólogo con habilidades técnicas que mejoran el cuidado del paciente. En la Fundación Cardioinfantil creemos que el propio nefrólogo es quien mejor puede realizar procedimientos invasivos, al comprender en profundidad tanto la anatomía como las implicaciones clínicas.
+Esta página reúne dos modalidades de formación en nefrointervención en la Fundación Cardioinfantil (laCardio), con alcances y expectativas diferentes.
 
-Este curso teórico-práctico tiene una duración de 8 semanas, y está diseñado para desarrollar competencias progresivas mediante simulación, observación clínica y evaluación directa.
+## Componente opcional de la rotación de Medicina Interna
+
+Durante la rotación general de Nefrología, la participación en nefrointervención es **opcional**, según la experiencia previa del residente, las oportunidades clínicas y la supervisión disponible.
+
+Las actividades pueden incluir observación, simulación y participación supervisada, con un alcance acordado con el docente. La realización de procedimientos invasivos y los resultados del programa especializado descrito a continuación **no son requisitos generales para aprobar la rotación de Medicina Interna**.
+
+## Rotación especial de Nefrointervención
+
+Está dirigida principalmente a **residentes (fellows) de Nefrología**, y también a otros residentes que realizan una rotación especial de nefrointervención. Pueden participar residentes de laCardio y de otras instituciones.
+
+Al inicio, el residente y el docente acuerdan los objetivos, las actividades, las oportunidades de evaluación y el nivel de supervisión, según la formación y experiencia previas. No se espera el mismo desempeño procedimental de todos los participantes.
+
+La estructura de **ocho semanas** que se presenta a continuación es una referencia para la rotación especial; su duración efectiva y las actividades aplicables deben confirmarse con el coordinador. No constituye un segundo programa obligatorio para quienes realizan la rotación general de Medicina Interna.
+
+Para estancias de **2 a 4 semanas**, incluidas las de potenciales participantes de la International Society of Nephrology (ISN), se seleccionan objetivos y actividades del programa de referencia con el coordinador. No se exige completar las ocho semanas ni concentrar todas sus actividades en una estancia breve. La selección considera experiencia previa, duración, oportunidades clínicas y supervisión disponible. Al cierre se revisan los objetivos acordados y el desempeño observado.
+
+::: {.callout-note title="Supervisión y progresión"}
+El docente define si cada actividad se realiza mediante observación, simulación o ejecución con supervisión directa, de acuerdo con el desempeño observado y las oportunidades disponibles. Completar el programa no implica autorización automática para realizar procedimientos de forma independiente.
+:::
 
 ------------------------------------------------------------------------
 
-# Resultados de Aprendizaje
+# Resultados de aprendizaje de la rotación especial
 
-Al finalizar el curso, el residente podrá:
+Los siguientes resultados orientan el plan individual. Su alcance se acuerda al inicio y se revisa con el docente durante la rotación:
 
-1.  Insertar catéteres de hemodiálisis (transitorios y tunelizados) utilizando guía ecográfica y técnicas de fluoroscopía.
-2.  Inferir el estado de volumen mediante ecografía a la cabecera del paciente (POCUS).
-3.  Insertar catéteres peritoneales según técnica establecida.
-4.  Identificar y manejar complicaciones de accesos vasculares.
-5.  Diseñar un programa de nefrología intervencionista adaptado a su contexto.
+1. Explicar la preparación y la técnica de inserción de catéteres de hemodiálisis transitorios y tunelizados, y participar en simulación o inserción con supervisión directa cuando corresponda a su plan individual.
+2. Adquirir e interpretar imágenes POCUS e integrar los hallazgos con el contexto clínico, con supervisión y feedback acordes con su experiencia.
+3. Explicar la técnica de inserción de catéteres peritoneales y participar mediante observación, simulación o ejecución con supervisión directa, según el alcance acordado.
+4. Identificar complicaciones de accesos vasculares y proponer su manejo para discusión con el supervisor.
+5. Elaborar una propuesta de formación en nefrointervención adaptada a su contexto, si este objetivo forma parte del plan individual.
 
 ------------------------------------------------------------------------
 
-# Estructura Semanal del Curso
+# Estructura semanal de referencia para la rotación especial
+
+Las actividades se seleccionan según el plan individual y la disponibilidad del servicio. Las prácticas procedimentales se realizan con el nivel de supervisión definido por el docente.
 
 ## Semana 1 – Fundamentos
 
@@ -108,9 +131,13 @@ Al finalizar el curso, el residente podrá:
 
 ------------------------------------------------------------------------
 
-# Evaluación del Curso
+# Evaluación de la rotación especial
 
-El desempeño será valorado mediante rúbricas de **Observación Directa de Habilidades Procedimentales (DOPS)**, con enfoque formativo y sumativo.
+El desempeño será valorado mediante rúbricas de **Observación Directa de Habilidades Procedimentales (DOPS)**, con enfoque formativo y sumativo, en relación con los objetivos acordados para cada residente. En cada observación se debe distinguir el contexto de práctica (simulación o paciente) y el nivel de supervisión utilizado.
+
+La retroalimentación y la evaluación final describirán el desempeño observado, las oportunidades de práctica y las áreas que requieren continuar el entrenamiento. La observación de un procedimiento no equivale a demostrar su ejecución.
+
+Esta evaluación corresponde a la rotación especial. Para el componente opcional de Medicina Interna, consultar la [evaluación de la rotación general](evaluacion.qmd).
 
 **Dimensiones evaluadas:** - Comprensión del procedimiento - Técnica aséptica - Preparación y analgesia - Habilidad técnica - Comunicación y profesionalismo
 
@@ -118,6 +145,15 @@ El desempeño será valorado mediante rúbricas de **Observación Directa de Hab
 
 # Documentos y Recursos
 
--   [Guía DOPS para residentes](dops-formato.pdf)
--   [Videos instructivos](enlace-a-tu-repositorio)
--   [Lecturas complementarias](bibliografia.qmd)
+## Instrumentos y lecturas
+
+- [Instrumentos de evaluación: DOPS y Mini-CEX](evaluacion.qmd).
+- Las lecturas clave se presentan en cada semana del programa de referencia.
+
+## Videos y canal de YouTube
+
+Recursos de apoyo para preparar y discutir las actividades con el docente:
+
+- [Video de YouTube: 8pFlDu52ADU](https://youtu.be/8pFlDu52ADU).
+- [Canal WesternSono](https://www.youtube.com/@westernsono).
+- [Video de YouTube: Ts2xDPfLX0Y](https://www.youtube.com/watch?v=Ts2xDPfLX0Y).

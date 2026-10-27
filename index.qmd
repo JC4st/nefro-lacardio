@@ -61,6 +61,8 @@ Al finalizar la rotación, se espera que el residente sea capaz de:
 
 ## Estructura del sitio
 
+La [Nefrointervención](nefrointervencion.qmd) ofrece un **componente opcional** durante la rotación de Medicina Interna, según experiencia previa, oportunidades clínicas y supervisión. La misma página describe una **rotación especial** dirigida principalmente a fellows de Nefrología y a otros residentes de laCardio o de otras instituciones, con objetivos y evaluación propios. Los procedimientos de ese programa especializado no son requisitos generales de la rotación de Medicina Interna.
+
 -   **Inicio**: Presentación general de la rotación y objetivos.
 -   **Plan semanal**: Distribución de actividades clínicas, académicas y sesiones de retroalimentación.
 -   **Evaluación**: Mecanismos de valoración formativa y sumativa, incluyendo instrumentos como DOPS y mini-CEX.

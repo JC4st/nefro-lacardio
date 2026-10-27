@@ -1,0 +1,143 @@
+---
+title: "Interventional nephrology: optional component and dedicated rotation"
+lang: en
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    theme: cosmo
+    number-sections: true
+---
+
+[Leer esta página en español](nefrointervencion.qmd){lang="es"}
+
+# Introduction
+
+This page describes two training pathways in interventional nephrology at Fundación Cardioinfantil (laCardio), with different scopes and expectations.
+
+## Optional component of the Internal Medicine rotation
+
+Participation in interventional nephrology during the general Nephrology rotation is **optional**, depending on the resident's previous experience, clinical opportunities and available supervision.
+
+Activities may include observation, simulation and supervised participation, with the scope agreed upon with the faculty supervisor. Performing invasive procedures and achieving the outcomes of the dedicated program below **are not general requirements for passing the Internal Medicine rotation**.
+
+## Dedicated interventional nephrology rotation
+
+This rotation is intended primarily for **Nephrology residents (fellows)**, as well as other residents undertaking dedicated training in interventional nephrology. Residents from laCardio and other institutions may participate.
+
+At the start of the rotation, the resident and faculty supervisor agree on learning objectives, activities, assessment opportunities and supervision, taking previous training and experience into account. The same level of procedural performance is not expected of every participant.
+
+The **eight-week** structure below is a reference program for the dedicated rotation. The actual duration and applicable activities must be confirmed with the coordinator. It is not a second mandatory program for residents undertaking the general Internal Medicine rotation.
+
+For **two- to four-week placements**, including those of potential participants from the International Society of Nephrology (ISN), objectives and activities are selected from the reference program with the coordinator. Participants are not expected to complete eight weeks or compress all activities into a short placement. Selection takes previous experience, placement duration, clinical opportunities and available supervision into account. Agreed objectives and observed performance are reviewed at the end of the placement.
+
+::: {.callout-note title="Supervision and progression"}
+The faculty supervisor determines whether each activity involves observation, simulation or performance under direct supervision, according to observed performance and available opportunities. Completing the program does not automatically authorize independent procedural practice.
+:::
+
+# Learning outcomes of the dedicated rotation
+
+The following outcomes guide the individual learning plan. Their scope is agreed upon at the start and reviewed with the faculty supervisor during the rotation:
+
+1. Explain preparation and insertion techniques for temporary and tunneled hemodialysis catheters, and participate in simulation or insertion under direct supervision when included in the individual plan.
+2. Acquire and interpret POCUS images and integrate findings into the clinical context, with supervision and feedback appropriate to previous experience.
+3. Explain peritoneal catheter insertion techniques and participate through observation, simulation or performance under direct supervision, according to the agreed scope.
+4. Identify vascular access complications and propose management for discussion with the supervisor.
+5. Develop a proposal for interventional nephrology training adapted to the participant's context, if this objective is included in the individual plan.
+
+# Reference weekly structure for the dedicated rotation
+
+Activities are selected according to the individual plan and service availability. Procedural practice takes place under the supervision defined by the faculty supervisor.
+
+## Week 1 – Fundamentals
+
+- Indications and contraindications for access procedures.
+- Basic ultrasound anatomy and ultrasound physics.
+- Clinical cases and simulation.
+
+**Key readings:** Edelman (2012), Narula (2018), Díaz-Gómez (2021)
+
+## Week 2 – Volume status assessment
+
+- VExUS, IVC and carotid Doppler.
+- Clinical integration of ultrasound findings.
+- Formative assessment using DOPS.
+
+**Key readings:** Wong (2024), Koratala (2024), Gargani (2014)
+
+## Week 3 – Temporary catheter insertion
+
+- Ultrasound-guided jugular/femoral technique.
+- Review of complications.
+- Practice on models and DOPS.
+
+**Key readings:** Forneris (2021), Pereira Jr. (2022)
+
+## Week 4 – Tunneled catheters
+
+- Tunneling technique, securement and management of complications.
+- Supervised insertion in patients.
+- Practice using animal models.
+
+**Key readings:** Schroppel (2024), Kachele (2023), Prasad (2023)
+
+## Week 5 – Peritoneal catheters
+
+- Surgical and percutaneous insertion.
+- Observation of clinical procedures.
+- Written assessment (700 words).
+
+**Key readings:** Abdel-Aal (2024), Haggerty (2017)
+
+## Week 6 – Complications and care
+
+- Infections, dysfunction and stenosis.
+- Simulation of clinical scenarios.
+- Prevention strategies.
+
+**Key readings:** Lok (2024), Sharbidre (2024), Ibeas (2018)
+
+## Week 7 – Program design
+
+- Develop a proposal for interventional nephrology training.
+- Teaching simulation.
+- Educational models (4C/ID, LSPPDM, etc.).
+
+**Key readings:** Koratala & Reisinger (2024), ISN Training Standards (2020)
+
+## Week 8 – Final assessment
+
+- Practical assessment using OSCE / DOPS.
+- Structured feedback.
+- Self-assessment and improvement proposals.
+
+# Assessment of the dedicated rotation
+
+Performance is assessed using **Direct Observation of Procedural Skills (DOPS)** rubrics for formative and summative purposes, in relation to each resident's agreed objectives. Each observation should distinguish the practice setting (simulation or patient) and the supervision provided.
+
+Feedback and the final assessment describe observed performance, practice opportunities and areas requiring further training. Observing a procedure does not demonstrate the ability to perform it.
+
+This assessment applies to the dedicated rotation. For the optional Internal Medicine component, see the [general rotation assessment page (in Spanish)](evaluacion.qmd).
+
+**Assessment domains:**
+
+- Understanding of the procedure.
+- Aseptic technique.
+- Preparation and analgesia.
+- Technical skills.
+- Communication and professionalism.
+
+# Documents and resources
+
+## Assessment tools and readings
+
+- [Assessment tools: DOPS and Mini-CEX (in Spanish)](evaluacion.qmd).
+- Key readings are listed for each week of the reference program.
+
+## YouTube videos and channel
+
+Supporting resources for preparation and discussion with the faculty supervisor:
+
+- [YouTube video: 8pFlDu52ADU](https://youtu.be/8pFlDu52ADU).
+- [WesternSono channel](https://www.youtube.com/@westernsono).
+- [YouTube video: Ts2xDPfLX0Y](https://www.youtube.com/watch?v=Ts2xDPfLX0Y).

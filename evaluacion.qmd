@@ -14,6 +14,8 @@ La evaluación de los residentes durante la rotación en nefrología busca promo
 
 ------------------------------------------------------------------------
 
+Esta estrategia corresponde a la **rotación general de Medicina Interna**. La participación en [Nefrointervención](nefrointervencion.qmd) es opcional y depende de la experiencia previa, las oportunidades clínicas y la supervisión disponible. La ejecución de procedimientos invasivos del programa especializado no es un requisito general para aprobar esta rotación. La rotación especial de Nefrointervención tiene objetivos y evaluación propios, acordados según el perfil de cada participante.
+
 ## Componentes de la evaluación
 
 ### 1. **Evaluación formativa continua**
@@ -37,7 +39,7 @@ La evaluación de los residentes durante la rotación en nefrología busca promo
 **Se recomienda realizar al menos:**
 
 -   2 Mini-CEX durante la rotación
--   2 DOPS relacionados con procedimientos comunes (ecografía, acceso vascular)
+-   2 DOPS relacionados con actividades procedimentales supervisadas, seleccionadas con el tutor según experiencia y oportunidades (por ejemplo, ecografía). Esta recomendación no exige realizar inserciones de accesos vasculares ni completar el programa especializado de Nefrointervención.
 
 **Ejemplo de formato DOPS:**
 

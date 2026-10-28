@@ -1,0 +1,112 @@
+---
+title: "Mini-CEX formativo: encuentro clínico en Nefrología"
+lang: es
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    number-sections: false
+---
+
+[Volver a Evaluación](evaluacion.qmd)
+
+::: {.callout-note title="Propósito"}
+Herramienta formativa para estructurar el feedback a partir de la observación directa de un encuentro clínico y acordar una acción de mejora con seguimiento.
+:::
+
+# Cómo utilizarlo
+
+1. **Antes:** residente y docente seleccionan un encuentro asistencial, acuerdan el foco y explicitan el desempeño esperado según el nivel de formación. Puede observarse una parte del encuentro; no es necesario evaluar todos los dominios.
+2. **Durante:** el docente observa la interacción del residente con el paciente y registra conductas concretas y la ayuda proporcionada. Una presentación o discusión del caso sin observar el encuentro no sustituye esta observación.
+3. **Después:** el residente realiza una autoevaluación breve y ambos acuerdan una fortaleza, una prioridad de mejora y una acción para el siguiente encuentro. El feedback se ofrece al terminar, cuando las condiciones clínicas lo permitan.
+
+Se puede copiar o imprimir esta página mediante el navegador y diligenciarla en el medio institucional autorizado. Esta página no guarda respuestas. No incorporar datos identificables de pacientes al sitio ni al repositorio.
+
+# Registro del encuentro
+
+- **Fecha:** ____________________
+- **Residente y programa / nivel de formación:** ____________________
+- **Docente observador:** ____________________
+- **Escenario:** hospitalización / UCI / urgencias / consulta externa / otro: ____________________
+- **Tipo de encuentro:** valoración inicial / seguimiento.
+- **Problema clínico principal, sin datos identificativos:** ____________________
+- **Complejidad del encuentro y factores relevantes:** ____________________
+- **Foco acordado:** anamnesis / examen físico / razonamiento y plan / comunicación / otro: ____________________
+- **Desempeño esperado en el foco seleccionado:** ____________________
+- **Alcance observado:** encuentro completo / segmento. Describir: ____________________
+- **Supervisión planificada y efectivamente proporcionada:** ____________________
+- **Tiempo de observación:** ______ minutos. **Tiempo de feedback:** ______ minutos.
+
+# Registro de la ayuda observada
+
+Para cada dominio observado, registrar el nivel de ayuda requerida y una conducta concreta. La escala describe **este encuentro**, dentro de la supervisión acordada.
+
+| Nivel | Ayuda requerida en el aspecto observado |
+|---|---|
+| 1 | Requirió guía paso a paso o intervención del docente para completar el aspecto observado. |
+| 2 | Completó el aspecto observado con indicaciones puntuales del docente. |
+| 3 | Completó el aspecto observado sin indicaciones adicionales, dentro de la supervisión planificada. |
+| NO | No observado: el encuentro o segmento no permitió valorar ese aspecto. |
+| NA | No aplicable al encuentro acordado. |
+
+**NO y NA quedan fuera de la escala numérica.** Los niveles son categorías ordenadas de ayuda, no notas: no se suman ni se promedian. Registrar qué ayuda fue necesaria y qué debe mejorar, aunque el residente no haya solicitado indicaciones.
+
+# Dominios de observación
+
+## Anamnesis enfocada
+
+Explora el problema clínico, antecedentes, medicamentos y preocupaciones pertinentes; aclara la secuencia temporal y selecciona información relevante para la valoración nefrológica.
+
+**Nivel (1–3), NO o NA y conducta observada:** ____________________
+
+## Examen físico pertinente
+
+Selecciona y realiza las maniobras pertinentes al problema, explica lo que va a examinar, atiende al confort del paciente y comunica los hallazgos realmente evaluados.
+
+**Nivel (1–3), NO o NA y conducta observada:** ____________________
+
+## Juicio clínico y plan
+
+Integra historia, examen y datos disponibles; prioriza problemas, fundamenta el diagnóstico diferencial y propone un plan con seguimiento. Reconoce incertidumbre y situaciones que requieren ayuda del supervisor.
+
+**Nivel (1–3), NO o NA y conducta observada:** ____________________
+
+## Comunicación y educación al paciente
+
+Escucha, usa lenguaje comprensible, explica hallazgos y opciones, explora preferencias y comprueba la comprensión del paciente o acompañante.
+
+**Nivel (1–3), NO o NA y conducta observada:** ____________________
+
+## Profesionalismo y consideración del paciente
+
+Mantiene un trato respetuoso, protege la privacidad, explica el propósito de la observación y atiende al consentimiento según corresponda. Reconoce sus límites y responde a las inquietudes del paciente.
+
+**Nivel (1–3), NO o NA y conducta observada:** ____________________
+
+## Organización y eficiencia
+
+Estructura el encuentro, prioriza lo relevante y utiliza el tiempo y los recursos de acuerdo con la complejidad del caso. Comunica las decisiones y los pasos siguientes al paciente y al equipo cuando corresponda.
+
+**Nivel (1–3), NO o NA y conducta observada:** ____________________
+
+# Feedback y próximo paso
+
+- **Autoevaluación breve del residente:** ____________________
+- **Fortaleza: conducta concreta que conviene mantener:** ____________________
+- **Prioridad de mejora: conducta observada y cambio esperado:** ____________________
+- **Acción acordada y apoyo que brindará el docente:** ____________________
+- **Próxima observación: fecha o siguiente oportunidad y aspecto por revisar:** ____________________
+- **En el siguiente encuentro: qué cambió respecto al acuerdo previo:** ____________________
+
+# Relación con la evaluación de la rotación
+
+Los registros permiten revisar el progreso y los acuerdos de aprendizaje en los encuentros con el tutor. La recomendación de dos Mini-CEX durante la rotación orienta la organización; no constituye un umbral de competencia.
+
+Este formato organiza el feedback de cada encuentro. Los criterios y la integración de evidencias para la evaluación final de la rotación se definen por separado.
+
+# Fundamento y referencias
+
+Los dominios toman como referencia el enfoque Mini-CEX descrito por ABIM. La escala 1–3 de ayuda requerida es una adaptación local para mantener coherencia con el [DOPS formativo](dops.qmd); no corresponde a la escala original de nueve puntos de ABIM ni cuenta con una validación específica para esta adaptación.
+
+- [ABIM: Assessment Tools — Mini-CEX](https://www.abim.org/program-directors-administrators/assessment-tools): observación directa de habilidades clínicas y feedback oportuno y específico.
+- [The Federation: Workplace based assessments](https://www.thefederation.uk/wba): Mini-CEX como observación del encuentro clínico para orientar el aprendizaje.

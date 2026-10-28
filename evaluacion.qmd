@@ -49,10 +49,11 @@ Se registra el contexto, la supervisión, la ayuda requerida y una acción de me
 
 El DOPS estructura el feedback y el seguimiento de las acciones de aprendizaje. La recomendación de dos encuentros es una orientación organizativa, no un umbral de competencia.
 
-**EEjemplo de formato Mini-CEX:**
+**Mini-CEX formativo para el encuentro clínico:**
 
-![](mini_cex.png)
-El Mini-CEX facilita la evaluación integral de una interacción clínica, abarcando historia clínica, examen físico, juicio clínico y comunicación.
+[Consultar el formato y las instrucciones de uso](mini-cex.qmd).
+
+El docente observa directamente un encuentro o segmento acordado con el paciente y ofrece feedback sobre las conductas observadas. Se seleccionan los dominios pertinentes y se registra una acción de mejora con seguimiento. El formato puede copiarse o imprimirse; no almacena respuestas en el sitio.
 
 ### 2. **Retroalimentación estructurada**
 

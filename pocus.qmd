@@ -8,6 +8,46 @@ format:
     number-sections: true
 ---
 
+::: {.callout-note title="Herramienta utilizada para registrar la evaluación POCUS"}
+[Abrir POCUS: congestión y tolerancia a líquidos](https://necardio.shinyapps.io/shiny-pocus/).
+
+El servicio utiliza esta herramienta para diligenciar la evaluación ultrasonográfica. Su interfaz incluye venas sistémicas y evaluación yugular, pulmón, corazón e integración e informe. Los hallazgos y las conclusiones se revisan con el docente y se documentan en el medio institucional autorizado.
+
+El [DOPS formativo](dops.qmd) registra el desempeño observado y estructura el feedback; complementa el reporte clínico. Las secciones de reporte de esta página sirven como guía de consulta.
+:::
+
+# Resultados de aprendizaje de POCUS para Medicina Interna {#ilos-pocus-medicina-interna}
+
+Estos resultados de aprendizaje previstos (**ILOs**, *Intended Learning Outcomes*) corresponden a la rotación general de ocho semanas. El alcance inicial propuesto es **POCUS renal, vesical, pulmonar básico y evaluación de la vena yugular interna**, con supervisión directa para adquisición y revisión de hallazgos y conclusiones por el docente. Al inicio se acuerdan las aplicaciones pertinentes según experiencia y oportunidades disponibles.
+
+Al finalizar la rotación, el residente podrá:
+
+1. **Pregunta clínica y preparación:** formular una pregunta concreta, explicar qué puede y qué no puede responder POCUS, preparar el equipo y atender al consentimiento, confort y medidas institucionales de limpieza.
+2. **Adquisición:** seleccionar transductor y ajustes básicos, obtener imágenes renales, vesicales, pulmonares o de la vena yugular interna para la exploración acordada bajo supervisión, y reconocer ventanas insuficientes o necesidad de ayuda.
+3. **Interpretación:** identificar las estructuras y describir hallazgos en las imágenes obtenidas; en la exploración yugular, distinguir la vena de la arteria carótida y describir su aspecto y cambios observados, indicando posición del paciente y método utilizado; distinguir una exploración no concluyente de una sin hallazgos y reconocer artefactos o incertidumbre para revisarlos con el docente.
+4. **Integración clínica:** relacionar los hallazgos con la pregunta clínica, historia, examen y otros estudios; proponer su posible implicación en el plan para discusión con el supervisor, sin decidir el manejo a partir de un hallazgo aislado.
+5. **Documentación y comunicación:** elaborar en el medio institucional un reporte breve con pregunta, alcance, calidad, hallazgos, limitaciones y conclusión revisada por el docente, utilizando la [herramienta del servicio](https://necardio.shinyapps.io/shiny-pocus/) para los componentes que contempla, y comunicar al equipo qué se pudo y qué no se pudo establecer.
+6. **Reflexión y mejora:** utilizar el feedback de una observación para definir una acción concreta y mostrar en una oportunidad posterior cómo la aplicó.
+
+## Progresión y oportunidades de observación
+
+| Momento | Foco de aprendizaje | Evidencia observable |
+|---|---|---|
+| Semana 1 | Pregunta clínica, manejo básico del equipo y adquisición renal o vesical supervisada. | Formula la pregunta, obtiene o intenta obtener la ventana y explica si es interpretable. |
+| Semana 2 | Exploración pulmonar y de la vena yugular interna supervisadas, según oportunidades, y relación de hallazgos con el caso. | Describe los hallazgos y sus limitaciones; en yugular, reconoce la estructura, registra posición y método, y discute la interpretación con el docente. |
+| Semanas 3–7 | Práctica longitudinal de las aplicaciones acordadas en los casos disponibles. | Aplica el feedback previo y mejora adquisición, interpretación o documentación. |
+| Semana 8 | Revisión del progreso con el tutor. | Explica fortalezas y aspectos que requieren continuar el entrenamiento. |
+
+El [DOPS formativo](dops.qmd) permite observar varios ILOs en el mismo encuentro. No se exige un DOPS ni un entregable independiente por resultado o semana. La interpretación con imágenes seleccionadas y la adquisición en simulación son oportunidades de aprendizaje; debe registrarse el contexto y no atribuir habilidades que no se observaron. Si falta una oportunidad, se acuerda con el tutor cómo continuar el aprendizaje.
+
+La evaluación yugular se desarrolla progresivamente con supervisión; la estimación de presión requiere explicitar el método y sus limitaciones, y no se exige un punto de corte aislado como evidencia de competencia. VExUS con Doppler y FOCUS pueden abordarse como ampliación según experiencia y supervisión; los formatos que siguen no implican que todas sus mediciones deban dominarse en esta rotación. Estos ILOs no incluyen inserción de accesos vasculares ni autorización de práctica independiente.
+
+## Fundamento educativo
+
+La selección del alcance es una propuesta curricular local para esta rotación. La separación entre adquisición, interpretación e integración clínica y su observación se apoya en [las recomendaciones curriculares CIMUS para Medicina Interna (2017)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5570740/) y [sus indicadores educativos (2019)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6816798/). La supervisión y documentación se orientan por el [consenso interdisciplinario de buenas prácticas de POCUS (2024)](https://pocusjournal.com/article/17240/). Estas referencias no establecen un número de estudios suficiente para acreditar competencia en esta rotación.
+
+------------------------------------------------------------------------
+
 # VExUS
 
 ### 1. Diámetro de la vena cava inferior  
@@ -43,11 +83,21 @@ _(número por campo o clasificación por cuadrante)_
 
 ---
 
-# Vena Yugular Interna
+# Vena yugular interna
 
-### Distensibilidad con maniobra de Valsalva  
-¿Mayor al 17%?: **Sí / No**  
-_(describir método de medición si aplica)_
+## Adquisición y descripción supervisadas
+
+- **Lado evaluado, posición e inclinación del paciente:**
+- **Identificación de la vena yugular interna y diferenciación de la carótida:**
+- **Vistas obtenidas y calidad de imagen:**
+- **Aspecto de la vena y cambios respiratorios observados:**
+- **Método, mediciones y unidades, si se realiza una estimación de presión yugular:**
+- **Maniobra utilizada, si corresponde, y posibilidad de interpretarla:**
+- **Limitaciones, interpretación en el contexto clínico y revisión con el docente:**
+
+Registrar los componentes disponibles en la [herramienta del servicio](https://necardio.shinyapps.io/shiny-pocus/) y consignar el método y las limitaciones en el reporte. Un examen no interpretable debe describirse como tal.
+
+**Lectura de apoyo:** [POCUS and the Jugular Venous Pressure: A Deep Dive — Larry Istrail, POCUS Med Ed (2021)](https://www.pocusmeded.com/post/pocus-and-the-jugular-venous-pressure-a-deep-dive). Recurso educativo para discutir técnicas y limitaciones con el docente; no sustituye el protocolo institucional. Pregunta orientadora: ¿qué método se utilizó, qué se pudo observar y qué limita su interpretación en este paciente?
 
 ---
 

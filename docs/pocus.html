@@ -2,44 +2,50 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>POCUS – Valoración Ecográfica Clínica – nefro-lacardio</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */
   vertical-align: middle;
 }
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
+<script src="nefro-assets/quarto-nav/quarto-nav.js"></script>
+<script src="nefro-assets/quarto-nav/headroom.min.js"></script>
+<script src="nefro-assets/clipboard/clipboard.min.js"></script>
+<script src="nefro-assets/quarto-search/autocomplete.umd.js"></script>
+<script src="nefro-assets/quarto-search/fuse.min.js"></script>
+<script src="nefro-assets/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-c1fac2584b48ed01fb6e278e36375074.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="nefro-assets/quarto-html/quarto.js" type="module"></script>
+<script src="nefro-assets/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="nefro-assets/quarto-html/popper.min.js"></script>
+<script src="nefro-assets/quarto-html/tippy.umd.min.js"></script>
+<script src="nefro-assets/quarto-html/anchor.min.js"></script>
+<link href="nefro-assets/quarto-html/tippy.css" rel="stylesheet">
+<link href="nefro-assets/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="nefro-assets/bootstrap/bootstrap.min.js"></script>
+<link href="nefro-assets/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="nefro-assets/bootstrap/bootstrap-445b8638c3d06994fee0907d791121c4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -90,37 +96,37 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="./index.html">
 <span class="menu-text">Inicio</span></a>
-  </li>  
+  </li>
   <li class="nav-item">
-    <a class="nav-link" href="./semana.html"> 
+    <a class="nav-link" href="./semana.html">
 <span class="menu-text">Plan semanal</span></a>
-  </li>  
+  </li>
   <li class="nav-item">
-    <a class="nav-link" href="./evaluacion.html"> 
+    <a class="nav-link" href="./evaluacion.html">
 <span class="menu-text">Evaluación</span></a>
-  </li>  
+  </li>
   <li class="nav-item">
-    <a class="nav-link" href="./recursos.html"> 
+    <a class="nav-link" href="./recursos.html">
 <span class="menu-text">Recursos</span></a>
-  </li>  
+  </li>
   <li class="nav-item">
-    <a class="nav-link" href="./faq.html"> 
+    <a class="nav-link" href="./faq.html">
 <span class="menu-text">Preguntas frecuentes</span></a>
-  </li>  
+  </li>
   <li class="nav-item">
-    <a class="nav-link" href="./historia.html"> 
+    <a class="nav-link" href="./historia.html">
 <span class="menu-text">Formato de historia clínica</span></a>
-  </li>  
+  </li>
   <li class="nav-item">
-    <a class="nav-link active" href="./pocus.html" aria-current="page"> 
+    <a class="nav-link active" href="./pocus.html" aria-current="page">
 <span class="menu-text">Reportes en POCUS</span></a>
-  </li>  
+  </li>
   <li class="nav-item">
-    <a class="nav-link" href="./nefrointervencion.html"> 
+    <a class="nav-link" href="./nefrointervencion.html">
 <span class="menu-text">Nefrointervención</span></a>
-  </li>  
+  </li>
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -135,14 +141,22 @@ ul.task-list li input[type="checkbox"] {
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
-   
+
   <ul class="collapse">
-  <li><a href="#vexus" id="toc-vexus" class="nav-link active" data-scroll-target="#vexus"><span class="header-section-number">1</span> VExUS</a></li>
-  <li><a href="#pulmonar" id="toc-pulmonar" class="nav-link" data-scroll-target="#pulmonar"><span class="header-section-number">2</span> Pulmonar</a></li>
-  <li><a href="#vena-yugular-interna" id="toc-vena-yugular-interna" class="nav-link" data-scroll-target="#vena-yugular-interna"><span class="header-section-number">3</span> Vena Yugular Interna</a></li>
-  <li><a href="#datos-de-función-renal" id="toc-datos-de-función-renal" class="nav-link" data-scroll-target="#datos-de-función-renal"><span class="header-section-number">4</span> Datos de Función Renal</a></li>
-  <li><a href="#focus-cardiaco" id="toc-focus-cardiaco" class="nav-link" data-scroll-target="#focus-cardiaco"><span class="header-section-number">5</span> FOCUS (Cardiaco)</a></li>
-  <li><a href="#recomendación" id="toc-recomendación" class="nav-link" data-scroll-target="#recomendación"><span class="header-section-number">6</span> Recomendación</a></li>
+  <li><a href="#ilos-pocus-medicina-interna" id="toc-ilos-pocus-medicina-interna" class="nav-link active" data-scroll-target="#ilos-pocus-medicina-interna"><span class="header-section-number">1</span> Resultados de aprendizaje de POCUS para Medicina Interna</a>
+  <ul class="collapse">
+  <li><a href="#progresión-y-oportunidades-de-observación" id="toc-progresión-y-oportunidades-de-observación" class="nav-link" data-scroll-target="#progresión-y-oportunidades-de-observación"><span class="header-section-number">1.1</span> Progresión y oportunidades de observación</a></li>
+  <li><a href="#fundamento-educativo" id="toc-fundamento-educativo" class="nav-link" data-scroll-target="#fundamento-educativo"><span class="header-section-number">1.2</span> Fundamento educativo</a></li>
+  </ul></li>
+  <li><a href="#vexus" id="toc-vexus" class="nav-link" data-scroll-target="#vexus"><span class="header-section-number">2</span> VExUS</a></li>
+  <li><a href="#pulmonar" id="toc-pulmonar" class="nav-link" data-scroll-target="#pulmonar"><span class="header-section-number">3</span> Pulmonar</a></li>
+  <li><a href="#vena-yugular-interna" id="toc-vena-yugular-interna" class="nav-link" data-scroll-target="#vena-yugular-interna"><span class="header-section-number">4</span> Vena yugular interna</a>
+  <ul class="collapse">
+  <li><a href="#adquisición-y-descripción-supervisadas" id="toc-adquisición-y-descripción-supervisadas" class="nav-link" data-scroll-target="#adquisición-y-descripción-supervisadas"><span class="header-section-number">4.1</span> Adquisición y descripción supervisadas</a></li>
+  </ul></li>
+  <li><a href="#datos-de-función-renal" id="toc-datos-de-función-renal" class="nav-link" data-scroll-target="#datos-de-función-renal"><span class="header-section-number">5</span> Datos de Función Renal</a></li>
+  <li><a href="#focus-cardiaco" id="toc-focus-cardiaco" class="nav-link" data-scroll-target="#focus-cardiaco"><span class="header-section-number">6</span> FOCUS (Cardiaco)</a></li>
+  <li><a href="#recomendación" id="toc-recomendación" class="nav-link" data-scroll-target="#recomendación"><span class="header-section-number">7</span> Recomendación</a></li>
   </ul>
 </nav>
     </div>
@@ -158,71 +172,154 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-title-meta">
 
-    
-  
-    
+
+
+
   </div>
-  
+
 
 
 </header>
 
 
-<section id="vexus" class="level1" data-number="1">
-<h1 data-number="1"><span class="header-section-number">1</span> VExUS</h1>
-<section id="diámetro-de-la-vena-cava-inferior" class="level3" data-number="1.0.1">
-<h3 data-number="1.0.1" class="anchored" data-anchor-id="diámetro-de-la-vena-cava-inferior"><span class="header-section-number">1.0.1</span> 1. Diámetro de la vena cava inferior</h3>
+<div class="callout callout-style-default callout-note callout-titled" title="Herramienta utilizada para registrar la evaluación POCUS">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Herramienta utilizada para registrar la evaluación POCUS
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><a href="https://necardio.shinyapps.io/shiny-pocus/">Abrir POCUS: congestión y tolerancia a líquidos</a>.</p>
+<p>El servicio utiliza esta herramienta para diligenciar la evaluación ultrasonográfica. Su interfaz incluye venas sistémicas y evaluación yugular, pulmón, corazón e integración e informe. Los hallazgos y las conclusiones se revisan con el docente y se documentan en el medio institucional autorizado.</p>
+<p>El <a href="./dops.html">DOPS formativo</a> registra el desempeño observado y estructura el feedback; complementa el reporte clínico. Las secciones de reporte de esta página sirven como guía de consulta.</p>
+</div>
+</div>
+<section id="ilos-pocus-medicina-interna" class="level1" data-number="1">
+<h1 data-number="1"><span class="header-section-number">1</span> Resultados de aprendizaje de POCUS para Medicina Interna</h1>
+<p>Estos resultados de aprendizaje previstos (<strong>ILOs</strong>, <em>Intended Learning Outcomes</em>) corresponden a la rotación general de ocho semanas. El alcance inicial propuesto es <strong>POCUS renal, vesical, pulmonar básico y evaluación de la vena yugular interna</strong>, con supervisión directa para adquisición y revisión de hallazgos y conclusiones por el docente. Al inicio se acuerdan las aplicaciones pertinentes según experiencia y oportunidades disponibles.</p>
+<p>Al finalizar la rotación, el residente podrá:</p>
+<ol type="1">
+<li><strong>Pregunta clínica y preparación:</strong> formular una pregunta concreta, explicar qué puede y qué no puede responder POCUS, preparar el equipo y atender al consentimiento, confort y medidas institucionales de limpieza.</li>
+<li><strong>Adquisición:</strong> seleccionar transductor y ajustes básicos, obtener imágenes renales, vesicales, pulmonares o de la vena yugular interna para la exploración acordada bajo supervisión, y reconocer ventanas insuficientes o necesidad de ayuda.</li>
+<li><strong>Interpretación:</strong> identificar las estructuras y describir hallazgos en las imágenes obtenidas; en la exploración yugular, distinguir la vena de la arteria carótida y describir su aspecto y cambios observados, indicando posición del paciente y método utilizado; distinguir una exploración no concluyente de una sin hallazgos y reconocer artefactos o incertidumbre para revisarlos con el docente.</li>
+<li><strong>Integración clínica:</strong> relacionar los hallazgos con la pregunta clínica, historia, examen y otros estudios; proponer su posible implicación en el plan para discusión con el supervisor, sin decidir el manejo a partir de un hallazgo aislado.</li>
+<li><strong>Documentación y comunicación:</strong> elaborar en el medio institucional un reporte breve con pregunta, alcance, calidad, hallazgos, limitaciones y conclusión revisada por el docente, utilizando la <a href="https://necardio.shinyapps.io/shiny-pocus/">herramienta del servicio</a> para los componentes que contempla, y comunicar al equipo qué se pudo y qué no se pudo establecer.</li>
+<li><strong>Reflexión y mejora:</strong> utilizar el feedback de una observación para definir una acción concreta y mostrar en una oportunidad posterior cómo la aplicó.</li>
+</ol>
+<section id="progresión-y-oportunidades-de-observación" class="level2" data-number="1.1">
+<h2 data-number="1.1" class="anchored" data-anchor-id="progresión-y-oportunidades-de-observación"><span class="header-section-number">1.1</span> Progresión y oportunidades de observación</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Momento</th>
+<th>Foco de aprendizaje</th>
+<th>Evidencia observable</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Semana 1</td>
+<td>Pregunta clínica, manejo básico del equipo y adquisición renal o vesical supervisada.</td>
+<td>Formula la pregunta, obtiene o intenta obtener la ventana y explica si es interpretable.</td>
+</tr>
+<tr class="even">
+<td>Semana 2</td>
+<td>Exploración pulmonar y de la vena yugular interna supervisadas, según oportunidades, y relación de hallazgos con el caso.</td>
+<td>Describe los hallazgos y sus limitaciones; en yugular, reconoce la estructura, registra posición y método, y discute la interpretación con el docente.</td>
+</tr>
+<tr class="odd">
+<td>Semanas 3–7</td>
+<td>Práctica longitudinal de las aplicaciones acordadas en los casos disponibles.</td>
+<td>Aplica el feedback previo y mejora adquisición, interpretación o documentación.</td>
+</tr>
+<tr class="even">
+<td>Semana 8</td>
+<td>Revisión del progreso con el tutor.</td>
+<td>Explica fortalezas y aspectos que requieren continuar el entrenamiento.</td>
+</tr>
+</tbody>
+</table>
+<p>El <a href="./dops.html">DOPS formativo</a> permite observar varios ILOs en el mismo encuentro. No se exige un DOPS ni un entregable independiente por resultado o semana. La interpretación con imágenes seleccionadas y la adquisición en simulación son oportunidades de aprendizaje; debe registrarse el contexto y no atribuir habilidades que no se observaron. Si falta una oportunidad, se acuerda con el tutor cómo continuar el aprendizaje.</p>
+<p>La evaluación yugular se desarrolla progresivamente con supervisión; la estimación de presión requiere explicitar el método y sus limitaciones, y no se exige un punto de corte aislado como evidencia de competencia. VExUS con Doppler y FOCUS pueden abordarse como ampliación según experiencia y supervisión; los formatos que siguen no implican que todas sus mediciones deban dominarse en esta rotación. Estos ILOs no incluyen inserción de accesos vasculares ni autorización de práctica independiente.</p>
+</section>
+<section id="fundamento-educativo" class="level2" data-number="1.2">
+<h2 data-number="1.2" class="anchored" data-anchor-id="fundamento-educativo"><span class="header-section-number">1.2</span> Fundamento educativo</h2>
+<p>La selección del alcance es una propuesta curricular local para esta rotación. La separación entre adquisición, interpretación e integración clínica y su observación se apoya en <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5570740/">las recomendaciones curriculares CIMUS para Medicina Interna (2017)</a> y <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6816798/">sus indicadores educativos (2019)</a>. La supervisión y documentación se orientan por el <a href="https://pocusjournal.com/article/17240/">consenso interdisciplinario de buenas prácticas de POCUS (2024)</a>. Estas referencias no establecen un número de estudios suficiente para acreditar competencia en esta rotación.</p>
+<hr>
+</section>
+</section>
+<section id="vexus" class="level1" data-number="2">
+<h1 data-number="2"><span class="header-section-number">2</span> VExUS</h1>
+<section id="diámetro-de-la-vena-cava-inferior" class="level3" data-number="2.0.1">
+<h3 data-number="2.0.1" class="anchored" data-anchor-id="diámetro-de-la-vena-cava-inferior"><span class="header-section-number">2.0.1</span> 1. Diámetro de la vena cava inferior</h3>
 <p><em>(en mm; indicar si colapsa con inspiración)</em></p>
 </section>
-<section id="doppler-de-la-vena-hepática" class="level3" data-number="1.0.2">
-<h3 data-number="1.0.2" class="anchored" data-anchor-id="doppler-de-la-vena-hepática"><span class="header-section-number">1.0.2</span> 2. Doppler de la vena hepática</h3>
+<section id="doppler-de-la-vena-hepática" class="level3" data-number="2.0.2">
+<h3 data-number="2.0.2" class="anchored" data-anchor-id="doppler-de-la-vena-hepática"><span class="header-section-number">2.0.2</span> 2. Doppler de la vena hepática</h3>
 <p><em>(descripción del patrón: trifásico, bifásico, flujo reverso, etc.)</em></p>
 </section>
-<section id="índice-de-pulsatilidad-en-la-vena-porta" class="level3" data-number="1.0.3">
-<h3 data-number="1.0.3" class="anchored" data-anchor-id="índice-de-pulsatilidad-en-la-vena-porta"><span class="header-section-number">1.0.3</span> 3. Índice de pulsatilidad en la vena porta (%)</h3>
+<section id="índice-de-pulsatilidad-en-la-vena-porta" class="level3" data-number="2.0.3">
+<h3 data-number="2.0.3" class="anchored" data-anchor-id="índice-de-pulsatilidad-en-la-vena-porta"><span class="header-section-number">2.0.3</span> 3. Índice de pulsatilidad en la vena porta (%)</h3>
 <p><em>(valor calculado y su interpretación)</em></p>
 </section>
-<section id="patrón-de-flujo-en-la-vena-renal" class="level3" data-number="1.0.4">
-<h3 data-number="1.0.4" class="anchored" data-anchor-id="patrón-de-flujo-en-la-vena-renal"><span class="header-section-number">1.0.4</span> 4. Patrón de flujo en la vena renal</h3>
+<section id="patrón-de-flujo-en-la-vena-renal" class="level3" data-number="2.0.4">
+<h3 data-number="2.0.4" class="anchored" data-anchor-id="patrón-de-flujo-en-la-vena-renal"><span class="header-section-number">2.0.4</span> 4. Patrón de flujo en la vena renal</h3>
 <p><em>(normal, pulsátil, reverso, discontinuo, etc.)</em></p>
 </section>
-<section id="grado-de-congestión-vexus-score" class="level3" data-number="1.0.5">
-<h3 data-number="1.0.5" class="anchored" data-anchor-id="grado-de-congestión-vexus-score"><span class="header-section-number">1.0.5</span> 5. Grado de congestión (VExUS score)</h3>
+<section id="grado-de-congestión-vexus-score" class="level3" data-number="2.0.5">
+<h3 data-number="2.0.5" class="anchored" data-anchor-id="grado-de-congestión-vexus-score"><span class="header-section-number">2.0.5</span> 5. Grado de congestión (VExUS score)</h3>
 <p><em>(I, II, o III según criterios establecidos)</em></p>
 <hr>
 </section>
 </section>
-<section id="pulmonar" class="level1" data-number="2">
-<h1 data-number="2"><span class="header-section-number">2</span> Pulmonar</h1>
-<section id="patrón-ecográfico" class="level3" data-number="2.0.1">
-<h3 data-number="2.0.1" class="anchored" data-anchor-id="patrón-ecográfico"><span class="header-section-number">2.0.1</span> 1. Patrón ecográfico</h3>
+<section id="pulmonar" class="level1" data-number="3">
+<h1 data-number="3"><span class="header-section-number">3</span> Pulmonar</h1>
+<section id="patrón-ecográfico" class="level3" data-number="3.0.1">
+<h3 data-number="3.0.1" class="anchored" data-anchor-id="patrón-ecográfico"><span class="header-section-number">3.0.1</span> 1. Patrón ecográfico</h3>
 <p><em>(A, B, consolidación, deslizamiento pleural ausente, etc.)</em></p>
 </section>
-<section id="grosor-pleural-mm" class="level3" data-number="2.0.2">
-<h3 data-number="2.0.2" class="anchored" data-anchor-id="grosor-pleural-mm"><span class="header-section-number">2.0.2</span> 2. Grosor pleural (mm)</h3>
+<section id="grosor-pleural-mm" class="level3" data-number="3.0.2">
+<h3 data-number="3.0.2" class="anchored" data-anchor-id="grosor-pleural-mm"><span class="header-section-number">3.0.2</span> 2. Grosor pleural (mm)</h3>
 <p><em>(en milímetros, si está disponible)</em></p>
 </section>
-<section id="número-de-espacios-intercostales-evaluados" class="level3" data-number="2.0.3">
-<h3 data-number="2.0.3" class="anchored" data-anchor-id="número-de-espacios-intercostales-evaluados"><span class="header-section-number">2.0.3</span> 3. Número de espacios intercostales evaluados</h3>
+<section id="número-de-espacios-intercostales-evaluados" class="level3" data-number="3.0.3">
+<h3 data-number="3.0.3" class="anchored" data-anchor-id="número-de-espacios-intercostales-evaluados"><span class="header-section-number">3.0.3</span> 3. Número de espacios intercostales evaluados</h3>
 <p><em>(e.g., 8, 12 o protocolo completo de 28 zonas)</em></p>
 </section>
-<section id="cuantificación-de-líneas-b" class="level3" data-number="2.0.4">
-<h3 data-number="2.0.4" class="anchored" data-anchor-id="cuantificación-de-líneas-b"><span class="header-section-number">2.0.4</span> 4. Cuantificación de líneas B</h3>
+<section id="cuantificación-de-líneas-b" class="level3" data-number="3.0.4">
+<h3 data-number="3.0.4" class="anchored" data-anchor-id="cuantificación-de-líneas-b"><span class="header-section-number">3.0.4</span> 4. Cuantificación de líneas B</h3>
 <p><em>(número por campo o clasificación por cuadrante)</em></p>
 <hr>
 </section>
 </section>
-<section id="vena-yugular-interna" class="level1" data-number="3">
-<h1 data-number="3"><span class="header-section-number">3</span> Vena Yugular Interna</h1>
-<section id="distensibilidad-con-maniobra-de-valsalva" class="level3" data-number="3.0.1">
-<h3 data-number="3.0.1" class="anchored" data-anchor-id="distensibilidad-con-maniobra-de-valsalva"><span class="header-section-number">3.0.1</span> Distensibilidad con maniobra de Valsalva</h3>
-<p>¿Mayor al 17%?: <strong>Sí / No</strong><br>
-<em>(describir método de medición si aplica)</em></p>
+<section id="vena-yugular-interna" class="level1" data-number="4">
+<h1 data-number="4"><span class="header-section-number">4</span> Vena yugular interna</h1>
+<section id="adquisición-y-descripción-supervisadas" class="level2" data-number="4.1">
+<h2 data-number="4.1" class="anchored" data-anchor-id="adquisición-y-descripción-supervisadas"><span class="header-section-number">4.1</span> Adquisición y descripción supervisadas</h2>
+<ul>
+<li><strong>Lado evaluado, posición e inclinación del paciente:</strong></li>
+<li><strong>Identificación de la vena yugular interna y diferenciación de la carótida:</strong></li>
+<li><strong>Vistas obtenidas y calidad de imagen:</strong></li>
+<li><strong>Aspecto de la vena y cambios respiratorios observados:</strong></li>
+<li><strong>Método, mediciones y unidades, si se realiza una estimación de presión yugular:</strong></li>
+<li><strong>Maniobra utilizada, si corresponde, y posibilidad de interpretarla:</strong></li>
+<li><strong>Limitaciones, interpretación en el contexto clínico y revisión con el docente:</strong></li>
+</ul>
+<p>Registrar los componentes disponibles en la <a href="https://necardio.shinyapps.io/shiny-pocus/">herramienta del servicio</a> y consignar el método y las limitaciones en el reporte. Un examen no interpretable debe describirse como tal.</p>
+<p><strong>Lectura de apoyo:</strong> <a href="https://www.pocusmeded.com/post/pocus-and-the-jugular-venous-pressure-a-deep-dive">POCUS and the Jugular Venous Pressure: A Deep Dive — Larry Istrail, POCUS Med Ed (2021)</a>. Recurso educativo para discutir técnicas y limitaciones con el docente; no sustituye el protocolo institucional. Pregunta orientadora: ¿qué método se utilizó, qué se pudo observar y qué limita su interpretación en este paciente?</p>
 <hr>
 </section>
 </section>
-<section id="datos-de-función-renal" class="level1" data-number="4">
-<h1 data-number="4"><span class="header-section-number">4</span> Datos de Función Renal</h1>
+<section id="datos-de-función-renal" class="level1" data-number="5">
+<h1 data-number="5"><span class="header-section-number">5</span> Datos de Función Renal</h1>
 <ul>
 <li><strong>Uroanálisis disponible:</strong> Sí / No<br>
 </li>
@@ -232,28 +329,28 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 <hr>
 </section>
-<section id="focus-cardiaco" class="level1" data-number="5">
-<h1 data-number="5"><span class="header-section-number">5</span> FOCUS (Cardiaco)</h1>
-<section id="función-ventricular-izquierda" class="level3" data-number="5.0.1">
-<h3 data-number="5.0.1" class="anchored" data-anchor-id="función-ventricular-izquierda"><span class="header-section-number">5.0.1</span> 1. Función ventricular izquierda</h3>
+<section id="focus-cardiaco" class="level1" data-number="6">
+<h1 data-number="6"><span class="header-section-number">6</span> FOCUS (Cardiaco)</h1>
+<section id="función-ventricular-izquierda" class="level3" data-number="6.0.1">
+<h3 data-number="6.0.1" class="anchored" data-anchor-id="función-ventricular-izquierda"><span class="header-section-number">6.0.1</span> 1. Función ventricular izquierda</h3>
 <p><em>(Fracción de eyección estimada: normal, reducida, severamente reducida)</em></p>
 </section>
-<section id="evaluación-de-válvulas" class="level3" data-number="5.0.2">
-<h3 data-number="5.0.2" class="anchored" data-anchor-id="evaluación-de-válvulas"><span class="header-section-number">5.0.2</span> 2. Evaluación de válvulas</h3>
+<section id="evaluación-de-válvulas" class="level3" data-number="6.0.2">
+<h3 data-number="6.0.2" class="anchored" data-anchor-id="evaluación-de-válvulas"><span class="header-section-number">6.0.2</span> 2. Evaluación de válvulas</h3>
 <p><em>(presencia de insuficiencia/trastornos evidentes)</em></p>
 </section>
-<section id="otras-mediciones-relevantes" class="level3" data-number="5.0.3">
-<h3 data-number="5.0.3" class="anchored" data-anchor-id="otras-mediciones-relevantes"><span class="header-section-number">5.0.3</span> 3. Otras mediciones relevantes</h3>
+<section id="otras-mediciones-relevantes" class="level3" data-number="6.0.3">
+<h3 data-number="6.0.3" class="anchored" data-anchor-id="otras-mediciones-relevantes"><span class="header-section-number">6.0.3</span> 3. Otras mediciones relevantes</h3>
 <p><em>(derrame pericárdico, dilatación de cavidades, TAPSE, etc.)</em></p>
 </section>
-<section id="relación-ea-vti-si-se-midió" class="level3" data-number="5.0.4">
-<h3 data-number="5.0.4" class="anchored" data-anchor-id="relación-ea-vti-si-se-midió"><span class="header-section-number">5.0.4</span> 4. Relación E/A – VTI (si se midió)</h3>
+<section id="relación-ea-vti-si-se-midió" class="level3" data-number="6.0.4">
+<h3 data-number="6.0.4" class="anchored" data-anchor-id="relación-ea-vti-si-se-midió"><span class="header-section-number">6.0.4</span> 4. Relación E/A – VTI (si se midió)</h3>
 <p><em>(indicadores de función diastólica o gasto cardíaco)</em></p>
 <hr>
 </section>
 </section>
-<section id="recomendación" class="level1" data-number="6">
-<h1 data-number="6"><span class="header-section-number">6</span> Recomendación</h1>
+<section id="recomendación" class="level1" data-number="7">
+<h1 data-number="7"><span class="header-section-number">7</span> Recomendación</h1>
 <p><em>(Indicar interpretación global de hallazgos POCUS y sugerencias clínicas: iniciar diurético, cambiar estrategia de volumen, considerar hemodiálisis, etc.)</em></p>
 
 
@@ -271,7 +368,7 @@ ul.task-list li input[type="checkbox"] {
     anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
-        if (clz.startsWith('code-annotation-')) {                     
+        if (clz.startsWith('code-annotation-')) {
           return true;
         }
       }
@@ -291,11 +388,11 @@ ul.task-list li input[type="checkbox"] {
         button.setAttribute("data-bs-toggle", "tooltip");
         button.setAttribute("data-bs-placement", "left");
         button.setAttribute("data-bs-title", "Copied!");
-        tooltip = new bootstrap.Tooltip(button, 
-          { trigger: "manual", 
+        tooltip = new bootstrap.Tooltip(button,
+          { trigger: "manual",
             customClass: "code-copy-button-tooltip",
             offset: [0, -8]});
-        tooltip.show();    
+        tooltip.show();
       }
       setTimeout(function() {
         if (tooltip) {
@@ -311,13 +408,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
@@ -371,7 +469,7 @@ ul.task-list li input[type="checkbox"] {
       if (onUntriggerFn) {
         config.onUntrigger = onUntriggerFn;
       }
-      window.tippy(el, config); 
+      window.tippy(el, config);
     }
     const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
     for (var i=0; i<noterefs.length; i++) {
@@ -446,7 +544,7 @@ ul.task-list li input[type="checkbox"] {
       tippyHover(xref, undefined, function(instance) {
         instance.disable();
         let url = xref.getAttribute('href');
-        let hash = undefined; 
+        let hash = undefined;
         if (url.startsWith('#')) {
           hash = url;
         } else {
@@ -474,7 +572,7 @@ ul.task-list li input[type="checkbox"] {
               if (note !== null) {
                 const html = processXRef(id, note);
                 instance.setContent(html);
-              } 
+              }
             }).finally(() => {
               instance.enable();
               instance.show();
@@ -498,7 +596,7 @@ ul.task-list li input[type="checkbox"] {
               }
               const html = processXRef(null, note);
               instance.setContent(html);
-            } 
+            }
           }).finally(() => {
             instance.enable();
             instance.show();
@@ -538,7 +636,7 @@ ul.task-list li input[type="checkbox"] {
               height = bottom - top;
             }
             if (top !== null && height !== null && parent !== null) {
-              // cook up a div (if necessary) and position it 
+              // cook up a div (if necessary) and position it
               let div = window.document.getElementById("code-annotation-line-highlight");
               if (div === null) {
                 div = window.document.createElement("div");

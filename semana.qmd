@@ -16,50 +16,82 @@ A continuación se presenta la distribución propuesta para las **8 semanas** de
 
 ## Semana 1: Introducción y lesión renal aguda
 
-**Objetivos:**
+**Resultados de aprendizaje esperados:**
 
--   Reconocer las principales causas de lesión renal aguda (LRA).
--   Clasificar adecuadamente la LRA según el mecanismo fisiopatológico.
--   Interpretar pruebas de función renal y biomarcadores.
+Al finalizar la semana, con supervisión, el residente podrá:
 
-**Actividades clínicas:**
+- Sintetizar la evolución de la función renal y del gasto urinario de un paciente con LRA, explicitando los datos basales disponibles y sus limitaciones.
+- Formular y justificar un diagnóstico diferencial de LRA a partir de la historia, medicamentos, examen físico y estudios pertinentes.
+- Proponer un plan inicial de evaluación, seguimiento y manejo para discutir con el docente, e identificar cuándo solicitar ayuda.
+- Formular una pregunta clínica para POCUS y participar en la adquisición supervisada de imágenes renales o vesicales, reconociendo si la calidad permite su interpretación.
 
--   Visitas hospitalarias en los servicios de urgencias y hospitalización.
--   Discusión de casos con enfoque sindrómico.
+**Actividades y oportunidades de aprendizaje:**
+
+- Valoración y seguimiento de pacientes en urgencias y hospitalización, integrados a la actividad habitual del servicio.
+- Discusión del razonamiento diagnóstico y del plan con el docente.
+- Exploración POCUS renal o vesical supervisada, cuando el caso y la disponibilidad lo permitan. Si no hay oportunidad, revisar imágenes o practicar adquisición en simulación; registrar el contexto y la habilidad realmente observada.
 
 **Sesión académica:**
 
--   Seminario: “Clasificación y diagnóstico diferencial de la LRA”.
+- Seminario: “Clasificación y diagnóstico diferencial de la LRA”. Utilizar un caso del servicio para explicar qué datos apoyan o debilitan las hipótesis propuestas.
 
-**Lectura sugerida:**
+**Desempeño observable y feedback:**
 
--   Moore, P. K., et al. (2018). "Management of Acute Kidney Injury: Core Curriculum 2018." Am J Kidney Dis 72(1): 136-148.
--   Chawla, L. S., et al. (2015). "Renal angina: concept and development of pretest probability assessment in acute kidney injury." Crit Care 19(1): 93.
--   McMahon, B. A. and L. S. Chawla (2021). "The furosemide stress test: current use and future potential." Ren Fail 43(1): 830-839.
+- En un encuentro asistencial, el docente puede observar anamnesis, examen y razonamiento mediante el [Mini-CEX](mini-cex.qmd): el residente prioriza problemas, fundamenta hipótesis y explica el plan y sus incertidumbres.
+- En una exploración supervisada, el [DOPS de POCUS](dops.qmd) permite observar la pregunta clínica, selección del transductor, adquisición y reconocimiento de imágenes insuficientes.
+- La revisión de imágenes permite discutir interpretación, pero no demuestra adquisición. Acordar una acción de mejora para una próxima oportunidad.
+
+Estas son oportunidades para utilizar los instrumentos existentes, no evaluaciones adicionales obligatorias por semana. No se exige un informe académico separado de la documentación asistencial y del feedback habitual.
+
+**Lectura esencial:**
+
+- Moore, P. K., Hsu, R. K. y Liu, K. D. (2018). [Management of Acute Kidney Injury: Core Curriculum 2018](https://pubmed.ncbi.nlm.nih.gov/29478864/). *Am J Kidney Dis*, 72(1), 136–148. Pregunta orientadora: ¿cómo organizar el abordaje inicial y el seguimiento de este paciente con LRA?
+
+**Lecturas de ampliación según el caso:**
+
+- Chawla, L. S., et al. (2015). "Renal angina: concept and development of pretest probability assessment in acute kidney injury." Crit Care 19(1): 93.
+- McMahon, B. A. and L. S. Chawla (2021). "The furosemide stress test: current use and future potential." Ren Fail 43(1): 830-839.
 
 ------------------------------------------------------------------------
 
 ## Semana 2: Manejo de LRA y soporte dialítico
 
-**Objetivos:**
+**Resultados de aprendizaje esperados:**
 
--   Conocer las indicaciones de TRR en pacientes críticos con LRA.
--   Comprender parámetros básicos de hemodiálisis intermitente, continua y diálisis peritoneal.
+Al finalizar la semana, con supervisión, el residente podrá:
 
-**Actividades clínicas:**
+- Justificar en un caso clínico la necesidad de discutir TRR con el equipo de Nefrología, considerando evolución, complicaciones y contexto del paciente.
+- Comparar los principios de hemodiálisis intermitente, terapia continua y diálisis peritoneal, y explicar los factores que el equipo considera para seleccionar una modalidad.
+- Explicar los componentes básicos de una prescripción de TRR y el seguimiento de su tolerancia, para discusión con el supervisor.
+- Describir hallazgos de una exploración POCUS pulmonar o de la vena yugular interna supervisada e integrarlos con otros datos clínicos, explicitando las limitaciones del estudio antes de proponer ajustes al plan.
 
--   Discusión diaria de casos en UCI, urgencias y hospitalización.
--   Observación de colocación de catéter temporal.
--   Realizar el curso de accesos vasculares en Cardio U. Gestionar con ktutistar\@lacardio.org
+**Actividades y oportunidades de aprendizaje:**
+
+- Seguimiento y discusión diaria de casos en UCI, urgencias y hospitalización, incluyendo pacientes con TRR cuando estén disponibles.
+- Revisión de una prescripción con el docente: propósito de sus componentes, seguimiento y problemas que requieren reevaluación.
+- POCUS pulmonar y de vena yugular interna supervisados, según oportunidades: adquisición, descripción de hallazgos y discusión clínica; en yugular, registrar la posición del paciente, el método y las limitaciones. Si no hay oportunidad, utilizar imágenes o simulación para los componentes pertinentes.
+- Observación de colocación de catéter temporal según disponibilidad. La inserción no es un requisito general de la rotación de Medicina Interna.
+- Realizar el curso de accesos vasculares en Cardio U. Gestionar con ktutistar\@lacardio.org.
 
 **Sesión académica:**
 
--   Taller práctico: Indicaciones y prescripción de TRR.
+- Taller práctico: indicaciones y prescripción de TRR, con explicación del razonamiento y revisión del plan con el docente.
 
-**Lectura sugerida:**
+**Desempeño observable y feedback:**
 
--   Moore, P. K., et al. (2018). "Management of Acute Kidney Injury: Core Curriculum 2018." Am J Kidney Dis 72(1): 136-148.
--   Tolwani, A. (2012). "Continuous renal-replacement therapy for acute kidney injury." N Engl J Med 367(26): 2505-2514.
+- Un [Mini-CEX](mini-cex.qmd) puede centrarse en el encuentro con el paciente, la explicación del plan y el reconocimiento de incertidumbre. La discusión de una prescripción sin observar el encuentro genera feedback, pero no sustituye el Mini-CEX.
+- Un [DOPS de POCUS](dops.qmd) puede observar adquisición pulmonar o yugular, interpretación, integración y comunicación, seleccionando los aspectos realmente evaluables en ese encuentro.
+- Una misma observación puede cubrir varios resultados y dar seguimiento a lo acordado en la semana 1. No se añade una cuota semanal de instrumentos ni de procedimientos invasivos.
+
+**Lectura esencial:**
+
+- Moore, P. K., Hsu, R. K. y Liu, K. D. (2018). [Management of Acute Kidney Injury: Core Curriculum 2018](https://pubmed.ncbi.nlm.nih.gov/29478864/). *Am J Kidney Dis*, 72(1), 136–148. Retomar los apartados de manejo y TRR; no se requiere repetir la lectura completa.
+
+**Lectura de ampliación según el caso:**
+
+- Tolwani, A. (2012). [Continuous renal-replacement therapy for acute kidney injury](https://pubmed.ncbi.nlm.nih.gov/23268665/). *N Engl J Med*, 367(26), 2505–2514. Pregunta orientadora: ¿qué componentes y seguimiento de la terapia continua necesito comprender para discutir este caso con el supervisor?
+
+Las lecturas seleccionadas son referencias de fundamento; las decisiones asistenciales se revisan con el docente y las guías y protocolos vigentes del servicio.
 
 ------------------------------------------------------------------------
 

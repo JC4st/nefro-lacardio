@@ -55,7 +55,8 @@ Al finalizar la rotación, se espera que el residente sea capaz de:
 -   Comunicar de forma efectiva los hallazgos clínicos y planes terapéuticos al paciente y al equipo de salud.
 -   Participar activamente en la toma de decisiones en interconsultas de nefrología.
 -   Reconocer indicaciones y principios básicos de terapias de reemplazo renal (hemodiálisis y diálisis peritoneal).
--   Observar procedimientos nefrológicos frecuentes e interpretar su impacto clínico (colocación de catéter, POCUS).
+-   Observar procedimientos nefrológicos frecuentes e interpretar su impacto clínico (por ejemplo, colocación de catéter).
+-   Formular preguntas clínicas para POCUS, adquirir e interpretar imágenes básicas bajo supervisión e integrar y comunicar los hallazgos con sus limitaciones, según los [resultados de aprendizaje de POCUS para Medicina Interna](pocus.qmd#ilos-pocus-medicina-interna).
 
 ------------------------------------------------------------------------
 
